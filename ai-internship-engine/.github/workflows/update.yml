@@ -1,0 +1,43 @@
+name: Update internship tables
+
+on:
+  schedule:
+    - cron: "0 */4 * * *"   # every 4 hours (UTC)
+  workflow_dispatch:          # manual "Run workflow" button
+  push:
+    paths: ["companies.csv", "engine/**"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readme
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run engine
+        run: python engine/update.py
+
+      - name: Commit changes (if any)
+        run: |
+          git config user.name  "internship-bot"
+          git config user.email "actions@github.com"
+          git add README.md data/seen.json data/history.json data/upstream_companies.json
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "auto: refresh internship tables ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+            git push
+          fi

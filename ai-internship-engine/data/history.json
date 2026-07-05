@@ -1,0 +1,198 @@
+{
+ "rdu_hybrid": {
+  "Advance Auto Parts": {
+   "location": "Raleigh, NC (Hybrid)",
+   "role_hint": "AI Business Intern",
+   "seed_first_post": "2025-11-03",
+   "seeded": true
+  },
+  "Bandwidth": {
+   "location": "Raleigh, NC (Hybrid)",
+   "role_hint": "AI Enablement Intern",
+   "seed_first_post": "2026-01-12",
+   "seeded": true
+  },
+  "Blue Cross NC": {
+   "location": "Durham, NC (Hybrid)",
+   "role_hint": "AI Strategy Intern",
+   "seed_first_post": "2025-10-20",
+   "seeded": true
+  },
+  "Cisco": {
+   "location": "RTP, NC (Hybrid)",
+   "role_hint": "AI Go-To-Market Intern",
+   "seed_first_post": "2025-09-08",
+   "seeded": true
+  },
+  "Fidelity Investments": {
+   "location": "Durham, NC (Hybrid)",
+   "role_hint": "AI Product / Business Intern",
+   "seed_first_post": "2025-08-25",
+   "seeded": true
+  },
+  "First Citizens Bank": {
+   "location": "Raleigh, NC (Hybrid)",
+   "role_hint": "AI Operations Intern",
+   "seed_first_post": "2025-10-06",
+   "seeded": true
+  },
+  "IBM": {
+   "location": "RTP, NC (Hybrid)",
+   "role_hint": "AI Consulting Intern (RTP)",
+   "seed_first_post": "2025-09-15",
+   "seeded": true
+  },
+  "IQVIA": {
+   "location": "Durham, NC (Hybrid)",
+   "role_hint": "AI Commercial Solutions Intern",
+   "seed_first_post": "2025-10-13",
+   "seeded": true
+  },
+  "Labcorp": {
+   "location": "Durham, NC (Hybrid)",
+   "role_hint": "AI Operations Intern",
+   "seed_first_post": "2025-10-27",
+   "seeded": true
+  },
+  "Lenovo": {
+   "location": "Morrisville, NC (Hybrid)",
+   "role_hint": "AI Strategy / Marketing Intern",
+   "seed_first_post": "2025-09-15",
+   "seeded": true
+  },
+  "MetLife": {
+   "location": "Cary, NC (Hybrid)",
+   "role_hint": "AI Enablement Intern (Global Technology Campus)",
+   "seed_first_post": "2025-09-22",
+   "seeded": true
+  },
+  "RTI International": {
+   "location": "RTP, NC (Hybrid)",
+   "role_hint": "AI Policy / Research Support Intern",
+   "seed_first_post": "2025-11-10",
+   "seeded": true
+  },
+  "Red Hat": {
+   "location": "Raleigh, NC (Hybrid)",
+   "role_hint": "AI Marketing / Program Intern",
+   "seed_first_post": "2025-09-29",
+   "seeded": true
+  },
+  "SAS Institute": {
+   "location": "Cary, NC (Hybrid)",
+   "role_hint": "AI & Analytics Intern (business track)",
+   "seed_first_post": "2025-09-08",
+   "seeded": true
+  },
+  "Truist": {
+   "location": "Raleigh, NC (Hybrid)",
+   "role_hint": "AI Governance / Business Intern",
+   "seed_first_post": "2025-09-02",
+   "seeded": true
+  }
+ },
+ "remote_us": {
+  "Accenture": {
+   "location": "Remote \u2014 US",
+   "role_hint": "AI Strategy Intern",
+   "seed_first_post": "2025-09-15",
+   "seeded": true
+  },
+  "Adobe": {
+   "location": "Remote \u2014 US",
+   "role_hint": "AI Marketing Intern",
+   "seed_first_post": "2025-10-06",
+   "seeded": true
+  },
+  "CVS Health": {
+   "location": "Remote \u2014 US",
+   "role_hint": "AI Adoption Intern",
+   "seed_first_post": "2025-10-20",
+   "seeded": true
+  },
+  "Deloitte": {
+   "location": "Remote \u2014 US",
+   "role_hint": "AI & Data Strategy Intern",
+   "seed_first_post": "2025-08-18",
+   "seeded": true
+  },
+  "EY": {
+   "location": "Remote \u2014 US",
+   "role_hint": "AI Consulting Intern",
+   "seed_first_post": "2025-08-25",
+   "seeded": true
+  },
+  "Genpact": {
+   "location": "Remote \u2014 US",
+   "role_hint": "AI Operations Intern",
+   "seed_first_post": "2025-11-17",
+   "seeded": true
+  },
+  "HubSpot": {
+   "location": "Remote \u2014 US",
+   "role_hint": "AI Content / Marketing Intern",
+   "seed_first_post": "2026-01-05",
+   "seeded": true
+  },
+  "Jasper": {
+   "location": "Remote \u2014 US",
+   "role_hint": "AI Marketing Intern",
+   "seed_first_post": "2026-02-02",
+   "seeded": true
+  },
+  "KPMG": {
+   "location": "Remote \u2014 US",
+   "role_hint": "AI Advisory Intern",
+   "seed_first_post": "2025-09-02",
+   "seeded": true
+  },
+  "PepsiCo": {
+   "location": "Remote \u2014 US",
+   "role_hint": "Commercial AI Intern",
+   "seed_first_post": "2025-10-27",
+   "seeded": true
+  },
+  "Procter & Gamble": {
+   "location": "Remote \u2014 US",
+   "role_hint": "Brand / AI Innovation Intern",
+   "seed_first_post": "2025-08-18",
+   "seeded": true
+  },
+  "PwC": {
+   "location": "Remote \u2014 US",
+   "role_hint": "AI Assurance / Advisory Intern",
+   "seed_first_post": "2025-09-08",
+   "seeded": true
+  },
+  "Salesforce": {
+   "location": "Remote \u2014 US",
+   "role_hint": "AI (Agentforce) Product Marketing Intern",
+   "seed_first_post": "2025-09-22",
+   "seeded": true
+  },
+  "Scale AI": {
+   "location": "Remote \u2014 US",
+   "role_hint": "AI Operations / GTM Intern",
+   "seed_first_post": "2025-10-13",
+   "seeded": true
+  },
+  "ServiceNow": {
+   "location": "Remote \u2014 US",
+   "role_hint": "AI Product Marketing Intern",
+   "seed_first_post": "2025-09-29",
+   "seeded": true
+  },
+  "Walmart": {
+   "location": "Remote \u2014 US",
+   "role_hint": "AI Business Intern",
+   "seed_first_post": "2025-09-08",
+   "seeded": true
+  },
+  "Writer": {
+   "location": "Remote \u2014 US",
+   "role_hint": "AI GTM / Marketing Intern",
+   "seed_first_post": "2026-01-19",
+   "seeded": true
+  }
+ }
+}
