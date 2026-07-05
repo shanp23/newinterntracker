@@ -110,6 +110,13 @@
    "seed_first_post": "2025-10-20",
    "seeded": true
   },
+  "Campbellsoup": {
+   "grad": "Not specified",
+   "location": "USA - Remote",
+   "observed_first_post": "2026-06-12",
+   "role_hint": "Business Analyst (Co-op), DA&AI",
+   "seeded": false
+  },
   "Deloitte": {
    "location": "Remote \u2014 US",
    "role_hint": "AI & Data Strategy Intern",
@@ -146,11 +153,32 @@
    "seed_first_post": "2025-09-02",
    "seeded": true
   },
+  "Meshy": {
+   "grad": "l-time internship for 12 weeks or longer - Intend to join Meshy full-time after graduation (ideally graduating from 9/20\u2026",
+   "location": "Shanghai",
+   "observed_first_post": "2026-01-22",
+   "role_hint": "Generative AI Researcher Intern",
+   "seeded": false
+  },
+  "Oxfam International": {
+   "grad": "Not specified",
+   "location": "Boston, MA, us (Remote)",
+   "observed_first_post": "2026-05-13",
+   "role_hint": "Intern, AI and Digital Innovation",
+   "seeded": false
+  },
   "PepsiCo": {
    "location": "Remote \u2014 US",
    "role_hint": "Commercial AI Intern",
    "seed_first_post": "2025-10-27",
    "seeded": true
+  },
+  "Point C": {
+   "grad": "Not specified",
+   "location": "United States - Remote",
+   "observed_first_post": "2026-06-25",
+   "role_hint": "Account Management AI Intern",
+   "seeded": false
   },
   "Procter & Gamble": {
    "location": "Remote \u2014 US",
@@ -181,6 +209,20 @@
    "role_hint": "AI Product Marketing Intern",
    "seed_first_post": "2025-09-29",
    "seeded": true
+  },
+  "Sony": {
+   "grad": "Not specified",
+   "location": "Remote - Michigan",
+   "observed_first_post": "2026-06-08",
+   "role_hint": "Research Intern on Generative and Protective AI for Content Creation",
+   "seeded": false
+  },
+  "Valsoft": {
+   "grad": "Not specified",
+   "location": "United States (Remote)",
+   "observed_first_post": "2026-03-10",
+   "role_hint": "AI Marketer Intern - USA",
+   "seeded": false
   },
   "Walmart": {
    "location": "Remote \u2014 US",
