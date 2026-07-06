@@ -10,7 +10,7 @@ screened so that **no coding, programming language, or software-engineering skil
 Data tools (Tableau, Power BI, Alteryx, etc.) only appear when the posting says they're
 *preferred / a plus / not required / trained on the job*.
 
-**10 open roles · 3620 companies tracked · updated Jul 06, 2026 at 15:22 UTC**
+**9 open roles · 3620 companies tracked · updated Jul 06, 2026 at 18:08 UTC**
 
 ⭐ **Star this repo** to save it — the tables below rebuild themselves every 4 hours.
 
@@ -90,7 +90,7 @@ _No qualifying postings are live right now. The engine re-checks every 4 hours �
 | Writer | AI GTM / Marketing Intern | Remote — US | Jan 19, 2026 *(seeded estimate)* | ~Jan 19 | ⏳ waiting | shown when posting goes live |
 | Meshy | Generative AI Researcher Intern | Shanghai | Jan 22, 2026 | ~Jan 22 | ✅ live now | l-time internship for 12 weeks or longer - Intend to join Meshy full-time after graduation (ideally graduating from 9/20… |
 | Jasper | AI Marketing Intern | Remote — US | Feb 02, 2026 *(seeded estimate)* | ~Feb 02 | ⏳ waiting | shown when posting goes live |
-| Valsoft | AI Marketer Intern - USA | United States (Remote) | Mar 10, 2026 | ~Mar 10 | ✅ live now | Not specified |
+| Valsoft | AI Marketer Intern - USA | United States (Remote) | Mar 10, 2026 | ~Mar 10 | ⏳ waiting | Not specified |
 | Oxfam International | Intern, AI and Digital Innovation | Boston, MA, us (Remote) | May 13, 2026 | ~May 13 | ✅ live now | Not specified |
 | Sony | Research Intern on Generative and Protective AI for Content Creation | Remote - Michigan | Jun 08, 2026 | ~Jun 08 | ✅ live now | Not specified |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | USA - Remote | Jun 12, 2026 | ~Jun 12 | ✅ live now | Not specified |
@@ -109,7 +109,6 @@ _No qualifying postings are live right now. The engine re-checks every 4 hours �
 | Campbellsoup | Business Analyst (Co-op), DA&AI | USA - Remote | Not stated (verify) | Not specified | Jun 12, 2026 | [Apply](https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65914) |
 | Sony | Research Intern on Generative and Protective AI for Content Creation | Remote - Michigan | Not stated (verify) | Not specified | Jun 08, 2026 | [Apply](https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---Michigan/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-118961) |
 | Oxfam International | Intern, AI and Digital Innovation | Boston, MA, us (Remote) | Not stated (verify) | Not specified | May 13, 2026 | [Apply](https://jobs.smartrecruiters.com/OxfamAmerica2/744000126379905) |
-| Valsoft | AI Marketer Intern - USA | United States (Remote) | Fall 2026 | Not specified | Mar 10, 2026 | [Apply](https://apply.workable.com/j/AA9D496F9D) |
 | Meshy | Generative AI Researcher Intern | Shanghai | Not stated (verify) | l-time internship for 12 weeks or longer - Intend to join Meshy full-time after graduation (ideally graduating from 9/20… | Jan 22, 2026 | [Apply](https://jobs.ashbyhq.com/meshy/00b6328d-8c32-4b91-aafa-51434e965f37) |
 
 
@@ -153,4 +152,4 @@ this page through GitHub Actions **every 4 hours**.
 Adding a company takes one line in [`companies.csv`](companies.csv) — see
 [CONTRIBUTING.md](CONTRIBUTING.md).
 
-*Engine (last run): 3,620 companies polled across 11 job platforms · 95% fetch success · completed in 98s.*
+*Engine (last run): 3,620 companies polled across 11 job platforms · 95% fetch success · completed in 113s.*
