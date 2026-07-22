@@ -10,7 +10,7 @@ screened so that **no coding, programming language, or software-engineering skil
 Data tools (Tableau, Power BI, Alteryx, etc.) only appear when the posting says they're
 *preferred / a plus / not required / trained on the job*.
 
-**7 open roles · 3739 companies tracked · updated Jul 22, 2026 at 10:21 UTC**
+**8 open roles · 3884 companies tracked · updated Jul 22, 2026 at 13:40 UTC**
 
 ⭐ **Star this repo** to save it — the tables below rebuild themselves every 4 hours.
 
@@ -95,12 +95,14 @@ _No qualifying postings are live right now. The engine re-checks every 4 hours �
 | Sony | Research Intern on Generative and Protective AI for Content Creation | Remote - Michigan | Jun 08, 2026 | ~Jun 08 | ✅ live now | Not specified |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | USA - Remote | Jun 12, 2026 | ~Jun 12 | ✅ live now | Not specified |
 | Point C | Account Management AI Intern | United States - Remote | Jun 25, 2026 | ~Jun 25 | ✅ live now | Not specified |
+| SS&C | Healthcare AI & Automation Intern | Remote - Florida, US | Jul 22, 2026 | ~Jul 22 | ✅ live now | Not specified |
 
 
 ## 🌐 Table 4 — Active Now: US-Remote AI Internships
 
 | Company | Role | Location | Cycle | Graduation Requirement | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
+| SS&C | Healthcare AI & Automation Intern | Remote - Florida, US | Not stated (verify) | Not specified | Jul 22, 2026 | [Apply](https://ssctech.wd1.myworkdayjobs.com/en-US/ssctechnologies/job/Remote---Florida-US/Healthcare-AI---Automation-Intern_R45126) |
 | Sony | Research Intern on Generative and Protective AI for Content Creation | Remote - New York | Not stated (verify) | Not specified | Jun 30, 2026 | [Apply](https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335) |
 | Point C | Account Management AI Intern | United States - Remote | Not stated (verify) | Not specified | Jun 25, 2026 | [Apply](https://job-boards.greenhouse.io/pointc/jobs/5282753008) |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | USA - Remote | Not stated (verify) | Not specified | Jun 12, 2026 | [Apply](https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65915) |
@@ -150,4 +152,4 @@ this page through GitHub Actions **every 4 hours**.
 Adding a company takes one line in [`companies.csv`](companies.csv) — see
 [CONTRIBUTING.md](CONTRIBUTING.md).
 
-*Engine (last run): 3,739 companies polled across 11 job platforms · 94% fetch success · completed in 95s.*
+*Engine (last run): 3,884 companies polled across 11 job platforms · 94% fetch success · completed in 122s.*

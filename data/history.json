@@ -192,6 +192,13 @@
    "seed_first_post": "2025-09-08",
    "seeded": true
   },
+  "SS&C": {
+   "grad": "Not specified",
+   "location": "Remote - Florida, US",
+   "observed_first_post": "2026-07-22",
+   "role_hint": "Healthcare AI & Automation Intern",
+   "seeded": false
+  },
   "Salesforce": {
    "location": "Remote \u2014 US",
    "role_hint": "AI (Agentforce) Product Marketing Intern",
