@@ -104,6 +104,13 @@
    "seed_first_post": "2025-10-06",
    "seeded": true
   },
+  "Boston Medical Center": {
+   "grad": "Not specified",
+   "location": "Remote",
+   "observed_first_post": "2026-07-23",
+   "role_hint": "Cybersecurity & AI/Data Governance Intern",
+   "seeded": false
+  },
   "CVS Health": {
    "location": "Remote \u2014 US",
    "role_hint": "AI Adoption Intern",
