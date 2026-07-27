@@ -10,7 +10,7 @@ screened so that **no coding, programming language, or software-engineering skil
 Data tools (Tableau, Power BI, Alteryx, etc.) only appear when the posting says they're
 *preferred / a plus / not required / trained on the job*.
 
-**9 open roles · 3943 companies tracked · updated Jul 27, 2026 at 14:22 UTC**
+**10 open roles · 3943 companies tracked · updated Jul 27, 2026 at 17:38 UTC**
 
 ⭐ **Star this repo** to save it — the tables below rebuild themselves every 4 hours.
 
@@ -61,6 +61,7 @@ watching — companies trend earlier every year.*
 | Advance Auto Parts | AI Business Intern | Raleigh, NC (Hybrid) | Nov 03, 2025 *(seeded estimate)* | ~Nov 03 | ⏳ waiting | shown when posting goes live |
 | RTI International | AI Policy / Research Support Intern | RTP, NC (Hybrid) | Nov 10, 2025 *(seeded estimate)* | ~Nov 10 | ⏳ waiting | shown when posting goes live |
 | Bandwidth | AI Enablement Intern | Raleigh, NC (Hybrid) | Jan 12, 2026 *(seeded estimate)* | ~Jan 12 | ⏳ waiting | shown when posting goes live |
+| Toshiba Global Commerce | AI Product Management Intern | Durham, NC | Jul 27, 2026 | ~Jul 27 | ✅ live now | Not specified |
 
 
 ## 📍 Table 2 — Active Now: AI Internships in Raleigh–Durham
@@ -68,6 +69,7 @@ watching — companies trend earlier every year.*
 | Company | Role | Location | Cycle | Graduation Requirement | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
 | Toshiba Global Commerce | AI Product Management Intern | Durham, NC | Fall 2026 | Not specified | Jul 27, 2026 | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195826007) |
+| Toshiba Global Commerce | AI Supply Chain Intern | Durham, NC | Fall 2026 | Not specified | Jul 27, 2026 | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195845007) |
 
 
 ## 🌐 Table 3 — Drop Radar: US-Remote AI Internships
@@ -155,4 +157,4 @@ this page through GitHub Actions **every 4 hours**.
 Adding a company takes one line in [`companies.csv`](companies.csv) — see
 [CONTRIBUTING.md](CONTRIBUTING.md).
 
-*Engine (last run): 3,943 companies polled across 11 job platforms · 94% fetch success · completed in 95s.*
+*Engine (last run): 3,943 companies polled across 11 job platforms · 94% fetch success · completed in 113s.*

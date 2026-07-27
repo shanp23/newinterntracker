@@ -84,6 +84,13 @@
    "seed_first_post": "2025-09-08",
    "seeded": true
   },
+  "Toshiba Global Commerce": {
+   "grad": "Not specified",
+   "location": "Durham, NC",
+   "observed_first_post": "2026-07-27",
+   "role_hint": "AI Product Management Intern",
+   "seeded": false
+  },
   "Truist": {
    "location": "Raleigh, NC (Hybrid)",
    "role_hint": "AI Governance / Business Intern",
