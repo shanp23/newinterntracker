@@ -10,7 +10,7 @@ screened so that **no coding, programming language, or software-engineering skil
 Data tools (Tableau, Power BI, Alteryx, etc.) only appear when the posting says they're
 *preferred / a plus / not required / trained on the job*.
 
-**8 open roles · 3937 companies tracked · updated Jul 27, 2026 at 11:15 UTC**
+**9 open roles · 3943 companies tracked · updated Jul 27, 2026 at 14:22 UTC**
 
 ⭐ **Star this repo** to save it — the tables below rebuild themselves every 4 hours.
 
@@ -65,7 +65,9 @@ watching — companies trend earlier every year.*
 
 ## 📍 Table 2 — Active Now: AI Internships in Raleigh–Durham
 
-_No qualifying postings are live right now. The engine re-checks every 4 hours — watch the Drop Radar below for what's coming._
+| Company | Role | Location | Cycle | Graduation Requirement | Posted | Apply |
+| --- | --- | --- | --- | --- | --- | --- |
+| Toshiba Global Commerce | AI Product Management Intern | Durham, NC | Fall 2026 | Not specified | Jul 27, 2026 | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195826007) |
 
 
 ## 🌐 Table 3 — Drop Radar: US-Remote AI Internships
@@ -153,4 +155,4 @@ this page through GitHub Actions **every 4 hours**.
 Adding a company takes one line in [`companies.csv`](companies.csv) — see
 [CONTRIBUTING.md](CONTRIBUTING.md).
 
-*Engine (last run): 3,937 companies polled across 11 job platforms · 94% fetch success · completed in 113s.*
+*Engine (last run): 3,943 companies polled across 11 job platforms · 94% fetch success · completed in 95s.*
