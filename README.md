@@ -10,7 +10,7 @@ screened so that **no coding, programming language, or software-engineering skil
 Data tools (Tableau, Power BI, Alteryx, etc.) only appear when the posting says they're
 *preferred / a plus / not required / trained on the job*.
 
-**9 open roles · 4052 companies tracked · updated Aug 03, 2026 at 14:28 UTC**
+**8 open roles · 4052 companies tracked · updated Aug 03, 2026 at 17:46 UTC**
 
 ⭐ **Star this repo** to save it — the tables below rebuild themselves every 4 hours.
 
@@ -68,7 +68,6 @@ watching — companies trend earlier every year.*
 
 | Company | Role | Location | Cycle | Graduation Requirement | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
-| Toshiba Global Commerce | AI Product Management Intern | Durham, NC | Fall 2026 | Not specified | Jul 27, 2026 | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195826007) |
 | Toshiba Global Commerce | AI Supply Chain Intern | Durham, NC | Fall 2026 | Not specified | Jul 27, 2026 | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195845007) |
 
 
@@ -156,4 +155,4 @@ this page through GitHub Actions **every 4 hours**.
 Adding a company takes one line in [`companies.csv`](companies.csv) — see
 [CONTRIBUTING.md](CONTRIBUTING.md).
 
-*Engine (last run): 4,052 companies polled across 11 job platforms · 94% fetch success · completed in 103s.*
+*Engine (last run): 4,052 companies polled across 11 job platforms · 94% fetch success · completed in 130s.*
