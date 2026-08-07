@@ -10,7 +10,7 @@ screened so that **no coding, programming language, or software-engineering skil
 Data tools (Tableau, Power BI, Alteryx, etc.) only appear when the posting says they're
 *preferred / a plus / not required / trained on the job*.
 
-**7 open roles · 3936 companies tracked · updated Aug 07, 2026 at 05:36 UTC**
+**7 open roles · 3936 companies tracked · updated Aug 07, 2026 at 08:53 UTC**
 
 ⭐ **Star this repo** to save it — the tables below rebuild themselves every 4 hours.
 
