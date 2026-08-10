@@ -10,7 +10,7 @@ screened so that **no coding, programming language, or software-engineering skil
 Data tools (Tableau, Power BI, Alteryx, etc.) only appear when the posting says they're
 *preferred / a plus / not required / trained on the job*.
 
-**7 open roles · 4343 companies tracked · updated Aug 10, 2026 at 16:49 UTC**
+**7 open roles · 4343 companies tracked · updated Aug 10, 2026 at 20:36 UTC**
 
 ⭐ **Star this repo** to save it — the tables below rebuild themselves every 4 hours.
 
@@ -106,7 +106,7 @@ watching — companies trend earlier every year.*
 
 | Company | Role | Location | Cycle | Graduation Requirement | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
-| Sony | Research Intern on Generative and Protective AI for Content Creation | Remote - New York | Not stated (verify) | Not specified | Jun 30, 2026 | [Apply](https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335) |
+| Sony | Research Intern on Generative and Protective AI for Content Creation | Remote - New York | Not stated (verify) | Not specified | Jul 05, 2026 | [Apply](https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335) |
 | Point C | Account Management AI Intern | United States - Remote | Not stated (verify) | Not specified | Jun 25, 2026 | [Apply](https://job-boards.greenhouse.io/pointc/jobs/5282753008) |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | USA - Remote | Not stated (verify) | Not specified | Jun 12, 2026 | [Apply](https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65915) |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | USA - Remote | Not stated (verify) | Not specified | Jun 12, 2026 | [Apply](https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65913) |
@@ -154,4 +154,4 @@ this page through GitHub Actions **every 4 hours**.
 Adding a company takes one line in [`companies.csv`](companies.csv) — see
 [CONTRIBUTING.md](CONTRIBUTING.md).
 
-*Engine (last run): 4,343 companies polled across 11 job platforms · 95% fetch success · completed in 115s.*
+*Engine (last run): 4,343 companies polled across 11 job platforms · 94% fetch success · completed in 115s.*
