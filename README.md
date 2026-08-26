@@ -10,7 +10,7 @@ screened so that **no coding, programming language, or software-engineering skil
 Data tools (Tableau, Power BI, Alteryx, etc.) only appear when the posting says they're
 *preferred / a plus / not required / trained on the job*.
 
-**6 open roles · 4561 companies tracked · updated Aug 26, 2026 at 16:44 UTC**
+**7 open roles · 4561 companies tracked · updated Aug 26, 2026 at 22:39 UTC**
 
 ⭐ **Star this repo** to save it — the tables below rebuild themselves every 4 hours.
 
@@ -99,12 +99,14 @@ _No qualifying postings are live right now. The engine re-checks every 4 hours �
 | SS&C | Healthcare AI & Automation Intern | Remote - Florida, US | Jul 22, 2026 | ~Jul 22 | ⏳ waiting | Not specified |
 | Boston Medical Center | Cybersecurity & AI/Data Governance Intern | Remote | Jul 23, 2026 | ~Jul 23 | ⏳ waiting | Not specified |
 | Concentric | Internship, AI Workflow Optimization, Fall 2026 (Remote) | Remote | Aug 10, 2026 | ~Aug 10 | ✅ live now | Not specified |
+| Kognitos | Marketing Intern (AI-Native) | San Jose - HQ | Aug 26, 2026 | ~Aug 26 | ✅ live now | Not specified |
 
 
 ## 🌐 Table 4 — Active Now: US-Remote AI Internships
 
 | Company | Role | Location | Cycle | Graduation Requirement | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
+| Kognitos | Marketing Intern (AI-Native) | San Jose - HQ | Not stated (verify) | Not specified | Aug 26, 2026 | [Apply](https://jobs.ashbyhq.com/kognitos/f36e4854-46c4-4a56-81db-597afb82bce8) |
 | Concentric | Internship, AI Workflow Optimization, Fall 2026 (Remote) | Remote | Fall 2026 | Not specified | Aug 10, 2026 | [Apply](https://job-boards.greenhouse.io/concentric/jobs/4703940006) |
 | Sony | Research Intern on Generative and Protective AI for Content Creation | Remote - New York | Not stated (verify) | Not specified | Jun 30, 2026 | [Apply](https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335) |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | USA - Remote | Not stated (verify) | Not specified | Jun 12, 2026 | [Apply](https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65915) |
@@ -153,4 +155,4 @@ this page through GitHub Actions **every 4 hours**.
 Adding a company takes one line in [`companies.csv`](companies.csv) — see
 [CONTRIBUTING.md](CONTRIBUTING.md).
 
-*Engine (last run): 4,561 companies polled across 11 job platforms · 94% fetch success · completed in 123s.*
+*Engine (last run): 4,561 companies polled across 11 job platforms · 93% fetch success · completed in 119s.*
