@@ -18,6 +18,13 @@
    "seed_first_post": "2025-10-20",
    "seeded": true
   },
+  "Cigna Group": {
+   "grad": "Not specified",
+   "location": "NC, Raleigh, 701 Corporate Center Dr STE 200",
+   "observed_first_post": "2026-09-02",
+   "role_hint": "Artificial Intelligence Innovation Development Program (AIIDP) Summer Internship",
+   "seeded": false
+  },
   "Cisco": {
    "location": "RTP, NC (Hybrid)",
    "role_hint": "AI Go-To-Market Intern",

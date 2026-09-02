@@ -10,7 +10,7 @@ screened so that **no coding, programming language, or software-engineering skil
 Data tools (Tableau, Power BI, Alteryx, etc.) only appear when the posting says they're
 *preferred / a plus / not required / trained on the job*.
 
-**6 open roles · 4605 companies tracked · updated Sep 02, 2026 at 08:19 UTC**
+**7 open roles · 4628 companies tracked · updated Sep 02, 2026 at 15:51 UTC**
 
 ⭐ **Star this repo** to save it — the tables below rebuild themselves every 4 hours.
 
@@ -62,11 +62,14 @@ watching — companies trend earlier every year.*
 | RTI International | AI Policy / Research Support Intern | RTP, NC (Hybrid) | Nov 10, 2025 *(seeded estimate)* | ~Nov 10 | ⏳ waiting | shown when posting goes live |
 | Bandwidth | AI Enablement Intern | Raleigh, NC (Hybrid) | Jan 12, 2026 *(seeded estimate)* | ~Jan 12 | ⏳ waiting | shown when posting goes live |
 | Toshiba Global Commerce | AI Product Management Intern | Durham, NC | Jul 27, 2026 | ~Jul 27 | ⏳ waiting | Not specified |
+| Cigna Group | Artificial Intelligence Innovation Development Program (AIIDP) Summer Internship | NC, Raleigh, 701 Corporate Center Dr STE 200 | Sep 02, 2026 | ~Sep 02 | ✅ live now | Not specified |
 
 
 ## 📍 Table 2 — Active Now: AI Internships in Raleigh–Durham
 
-_No qualifying postings are live right now. The engine re-checks every 4 hours — watch the Drop Radar below for what's coming._
+| Company | Role | Location | Cycle | Graduation Requirement | Posted | Apply |
+| --- | --- | --- | --- | --- | --- | --- |
+| Cigna Group | Artificial Intelligence Innovation Development Program (AIIDP) Summer Internship | NC, Raleigh, 701 Corporate Center Dr STE 200 | Not stated (verify) | Not specified | Sep 02, 2026 | [Apply](https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/NC-Raleigh-701-Corporate-Center-Dr-STE-200/Ai-Innovation-Development-Program--AIIDP--Summer-internship_26010712) |
 
 
 ## 🌐 Table 3 — Drop Radar: US-Remote AI Internships
@@ -154,4 +157,4 @@ this page through GitHub Actions **every 4 hours**.
 Adding a company takes one line in [`companies.csv`](companies.csv) — see
 [CONTRIBUTING.md](CONTRIBUTING.md).
 
-*Engine (last run): 4,605 companies polled across 11 job platforms · 94% fetch success · completed in 125s.*
+*Engine (last run): 4,628 companies polled across 11 job platforms · 95% fetch success · completed in 128s.*
