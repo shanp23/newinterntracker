@@ -125,6 +125,13 @@
    "seed_first_post": "2025-10-06",
    "seeded": true
   },
+  "Ancestry": {
+   "grad": "Not specified",
+   "location": "Remote",
+   "observed_first_post": "2026-09-03",
+   "role_hint": "Applied AI Science Co-op - Embedding models and Personalization",
+   "seeded": false
+  },
   "Boston Medical Center": {
    "grad": "Not specified",
    "location": "Remote",
