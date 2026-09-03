@@ -112,6 +112,13 @@
    "seed_first_post": "2025-09-15",
    "seeded": true
   },
+  "Acumatica": {
+   "grad": "Not specified",
+   "location": "Bellevue, WA, us (Remote)",
+   "observed_first_post": "2026-09-01",
+   "role_hint": "AI & Automation Intern, Office of the CFO",
+   "seeded": false
+  },
   "Adobe": {
    "location": "Remote \u2014 US",
    "role_hint": "AI Marketing Intern",
