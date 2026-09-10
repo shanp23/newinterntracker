@@ -10,7 +10,7 @@ screened so that **no coding, programming language, or software-engineering skil
 Data tools (Tableau, Power BI, Alteryx, etc.) only appear when the posting says they're
 *preferred / a plus / not required / trained on the job*.
 
-**9 open roles · 4796 companies tracked · updated Sep 10, 2026 at 15:43 UTC**
+**7 open roles · 4796 companies tracked · updated Sep 10, 2026 at 18:53 UTC**
 
 ⭐ **Star this repo** to save it — the tables below rebuild themselves every 4 hours.
 
@@ -102,8 +102,8 @@ watching — companies trend earlier every year.*
 | SS&C | Healthcare AI & Automation Intern | Remote - Florida, US | Jul 22, 2026 | ~Jul 22 | ⏳ waiting | Not specified |
 | Boston Medical Center | Cybersecurity & AI/Data Governance Intern | Remote | Jul 23, 2026 | ~Jul 23 | ⏳ waiting | Not specified |
 | Concentric | Internship, AI Workflow Optimization, Fall 2026 (Remote) | Remote | Aug 10, 2026 | ~Aug 10 | ⏳ waiting | Not specified |
-| Kognitos | Marketing Intern (AI-Native) | San Jose - HQ | Aug 26, 2026 | ~Aug 26 | ✅ live now | Not specified |
-| Acumatica | AI & Automation Intern, Office of the CFO | Bellevue, WA, us (Remote) | Sep 01, 2026 | ~Sep 01 | ✅ live now | Not specified |
+| Kognitos | Marketing Intern (AI-Native) | San Jose - HQ | Aug 26, 2026 | ~Aug 26 | ⏳ waiting | Not specified |
+| Acumatica | AI & Automation Intern, Office of the CFO | Bellevue, WA, us (Remote) | Sep 01, 2026 | ~Sep 01 | ⏳ waiting | Not specified |
 | Revvity | Product Manager Intern - AI Finance Automation | CAD Remote – ON | Sep 02, 2026 | ~Sep 02 | ⏳ waiting | Not specified |
 | Ancestry | Applied AI Science Co-op - Embedding models and Personalization | Remote | Sep 03, 2026 | ~Sep 03 | ✅ live now | Not specified |
 | ONE Finance | AI Research, Intern | United States (Remote) | Sep 08, 2026 | ~Sep 08 | ⏳ waiting | YOU BRING - Pursuing a Bachelor’s Degree: You’re a current student expected to graduate in the Fall 2027/Spring of 2028 … |
@@ -114,8 +114,6 @@ watching — companies trend earlier every year.*
 | Company | Role | Location | Cycle | Graduation Requirement | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
 | Ancestry | AI Discovery Co-Op - Agentic Personalization | Remote | Not stated (verify) | Not specified | Sep 08, 2026 | [Apply](https://ancestry.wd501.myworkdayjobs.com/en-US/Careers/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442) |
-| Acumatica | AI & Automation Intern, Office of the CFO | Bellevue, WA, us (Remote) | Fall 2026 | Not specified | Sep 01, 2026 | [Apply](https://jobs.smartrecruiters.com/Acumatica/744000146749696) |
-| Kognitos | Marketing Intern (AI-Native) | San Jose - HQ | Not stated (verify) | Not specified | Aug 26, 2026 | [Apply](https://jobs.ashbyhq.com/kognitos/f36e4854-46c4-4a56-81db-597afb82bce8) |
 | Sony | Research Intern on Generative and Protective AI for Content Creation | Remote - New York | Not stated (verify) | Not specified | Jun 30, 2026 | [Apply](https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335) |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | USA - Remote | Not stated (verify) | Not specified | Jun 12, 2026 | [Apply](https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65915) |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | USA - Remote | Not stated (verify) | Not specified | Jun 12, 2026 | [Apply](https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65913) |
@@ -163,4 +161,4 @@ this page through GitHub Actions **every 4 hours**.
 Adding a company takes one line in [`companies.csv`](companies.csv) — see
 [CONTRIBUTING.md](CONTRIBUTING.md).
 
-*Engine (last run): 4,796 companies polled across 11 job platforms · 94% fetch success · completed in 150s.*
+*Engine (last run): 4,796 companies polled across 11 job platforms · 94% fetch success · completed in 142s.*
