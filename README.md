@@ -10,7 +10,7 @@ screened so that **no coding, programming language, or software-engineering skil
 Data tools (Tableau, Power BI, Alteryx, etc.) only appear when the posting says they're
 *preferred / a plus / not required / trained on the job*.
 
-**9 open roles · 4855 companies tracked · updated Sep 16, 2026 at 15:59 UTC**
+**10 open roles · 4855 companies tracked · updated Sep 16, 2026 at 19:29 UTC**
 
 ⭐ **Star this repo** to save it — the tables below rebuild themselves every 4 hours.
 
@@ -69,6 +69,7 @@ watching — companies trend earlier every year.*
 
 | Company | Role | Location | Cycle | Graduation Requirement | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
+| Collier Aerospace | NCSG AI Feature Development Internship (Summer 2027) | Raleigh, NC | Summer 2027 | Not specified | Sep 16, 2026 | [Apply](https://ats.rippling.com/collieraerospace/jobs/5a8bf9a3-c4f5-4c5a-ba9a-188979106827) |
 | Cigna Group | Artificial Intelligence Innovation Development Program (AIIDP) Summer Internship | NC, Raleigh, 701 Corporate Center Dr STE 200 | Not stated (verify) | Not specified | Sep 03, 2026 | [Apply](https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/NC-Raleigh-701-Corporate-Center-Dr-STE-200/Ai-Innovation-Development-Program--AIIDP--Summer-internship_26010712) |
 
 
@@ -164,4 +165,4 @@ this page through GitHub Actions **every 4 hours**.
 Adding a company takes one line in [`companies.csv`](companies.csv) — see
 [CONTRIBUTING.md](CONTRIBUTING.md).
 
-*Engine (last run): 4,855 companies polled across 11 job platforms · 94% fetch success · completed in 164s.*
+*Engine (last run): 4,855 companies polled across 11 job platforms · 94% fetch success · completed in 157s.*
