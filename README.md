@@ -10,7 +10,7 @@ screened so that **no coding, programming language, or software-engineering skil
 Data tools (Tableau, Power BI, Alteryx, etc.) only appear when the posting says they're
 *preferred / a plus / not required / trained on the job*.
 
-**11 open roles · 4892 companies tracked · updated Sep 20, 2026 at 15:18 UTC**
+**10 open roles · 4892 companies tracked · updated Sep 20, 2026 at 18:26 UTC**
 
 ⭐ **Star this repo** to save it — the tables below rebuild themselves every 4 hours.
 
@@ -97,7 +97,7 @@ watching — companies trend earlier every year.*
 | Jasper | AI Marketing Intern | Remote — US | Feb 02, 2026 *(seeded estimate)* | ~Feb 02 | ⏳ waiting | shown when posting goes live |
 | Valsoft | AI Marketer Intern - USA | United States (Remote) | Mar 10, 2026 | ~Mar 10 | ⏳ waiting | Not specified |
 | Oxfam International | Intern, AI and Digital Innovation | Boston, MA, us (Remote) | May 13, 2026 | ~May 13 | ⏳ waiting | Not specified |
-| Sony | Research Intern on Generative and Protective AI for Content Creation | Remote - Michigan | Jun 08, 2026 | ~Jun 08 | ✅ live now | Not specified |
+| Sony | Research Intern on Generative and Protective AI for Content Creation | Remote - Michigan | Jun 08, 2026 | ~Jun 08 | ⏳ waiting | Not specified |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | USA - Remote | Jun 12, 2026 | ~Jun 12 | ✅ live now | Not specified |
 | Point C | Account Management AI Intern | United States - Remote | Jun 25, 2026 | ~Jun 25 | ⏳ waiting | Not specified |
 | SS&C | Healthcare AI & Automation Intern | Remote - Florida, US | Jul 22, 2026 | ~Jul 22 | ⏳ waiting | Not specified |
@@ -116,7 +116,6 @@ watching — companies trend earlier every year.*
 
 | Company | Role | Location | Cycle | Graduation Requirement | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
-| Sony | Research Intern on Generative and Protective AI for Content Creation | Remote - Texas | Not stated (verify) | Not specified | Sep 18, 2026 | [Apply](https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---Texas/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335) |
 | Amgen | Undergrad Intern – Digital Product – Technology, AI & Data (Summer 2027) | United States - Remote | Summer 2027 | Not specified | Sep 14, 2026 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Undergrad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255711) |
 | Amgen | Grad Intern – Digital Product – Technology, AI & Data (Summer 2027) | United States - Remote | Summer 2027 | Not specified | Sep 14, 2026 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Grad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255744) |
 | Ancestry | AI Discovery Co-Op - Agentic Personalization | Remote | Not stated (verify) | Not specified | Sep 08, 2026 | [Apply](https://ancestry.wd501.myworkdayjobs.com/en-US/Careers/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442) |
@@ -167,4 +166,4 @@ this page through GitHub Actions **every 4 hours**.
 Adding a company takes one line in [`companies.csv`](companies.csv) — see
 [CONTRIBUTING.md](CONTRIBUTING.md).
 
-*Engine (last run): 4,892 companies polled across 11 job platforms · 94% fetch success · completed in 123s.*
+*Engine (last run): 4,892 companies polled across 11 job platforms · 92% fetch success · completed in 100s.*
