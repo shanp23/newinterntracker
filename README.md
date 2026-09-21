@@ -10,7 +10,7 @@ screened so that **no coding, programming language, or software-engineering skil
 Data tools (Tableau, Power BI, Alteryx, etc.) only appear when the posting says they're
 *preferred / a plus / not required / trained on the job*.
 
-**11 open roles · 4896 companies tracked · updated Sep 21, 2026 at 17:44 UTC**
+**12 open roles · 4896 companies tracked · updated Sep 21, 2026 at 22:57 UTC**
 
 ⭐ **Star this repo** to save it — the tables below rebuild themselves every 4 hours.
 
@@ -108,7 +108,7 @@ watching — companies trend earlier every year.*
 | Revvity | Product Manager Intern - AI Finance Automation | CAD Remote – ON | Sep 02, 2026 | ~Sep 02 | ⏳ waiting | Not specified |
 | Ancestry | Applied AI Science Co-op - Embedding models and Personalization | Remote | Sep 03, 2026 | ~Sep 03 | ✅ live now | Not specified |
 | NewsBreak | New Market Launch Intern (MBA), Nearby AI | Bellevue, Washington, United States; Mountain View, California, United States; New York, New York, United States; Remote | Sep 03, 2026 | ~Sep 03 | ✅ live now | Not specified |
-| ONE Finance | AI Research, Intern | United States (Remote) | Sep 08, 2026 | ~Sep 08 | ⏳ waiting | YOU BRING - Pursuing a Bachelor’s Degree: You’re a current student expected to graduate in the Fall 2027/Spring of 2028 … |
+| ONE Finance | AI Research, Intern | United States (Remote) | Sep 08, 2026 | ~Sep 08 | ✅ live now | YOU BRING - Pursuing a Bachelor’s Degree: You’re a current student expected to graduate in the Fall 2027/Spring of 2028 … |
 | Amgen | Undergrad Intern – Digital Product – Technology, AI & Data (Summer 2027) | United States - Remote | Sep 14, 2026 | ~Sep 14 | ✅ live now | Not specified |
 
 
@@ -116,6 +116,7 @@ watching — companies trend earlier every year.*
 
 | Company | Role | Location | Cycle | Graduation Requirement | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
+| ONE Finance | AI Research, Intern | United States (Remote) | Spring 2027 | l-Year Graduate Student: You’re in the final year of a master’s or PhD program, expected to graduate in Fall 2027 or Spr… | Sep 21, 2026 | [Apply](https://jobs.ashbyhq.com/oneapp/84beb108-c04b-42d3-a9ae-9a91210201b7) |
 | Sony | Research Intern on Generative and Protective AI for Content Creation | Remote - Texas | Not stated (verify) | Not specified | Sep 18, 2026 | [Apply](https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---Texas/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335) |
 | Amgen | Undergrad Intern – Digital Product – Technology, AI & Data (Summer 2027) | United States - Remote | Summer 2027 | Not specified | Sep 14, 2026 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Undergrad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255711) |
 | Amgen | Grad Intern – Digital Product – Technology, AI & Data (Summer 2027) | United States - Remote | Summer 2027 | Not specified | Sep 14, 2026 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Grad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255744) |
@@ -167,4 +168,4 @@ this page through GitHub Actions **every 4 hours**.
 Adding a company takes one line in [`companies.csv`](companies.csv) — see
 [CONTRIBUTING.md](CONTRIBUTING.md).
 
-*Engine (last run): 4,896 companies polled across 11 job platforms · 94% fetch success · completed in 169s.*
+*Engine (last run): 4,896 companies polled across 11 job platforms · 93% fetch success · completed in 117s.*
