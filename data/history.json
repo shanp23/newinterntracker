@@ -178,6 +178,13 @@
    "seed_first_post": "2025-08-25",
    "seeded": true
   },
+  "G2": {
+   "grad": "Not specified",
+   "location": "Remote (US)",
+   "observed_first_post": "2026-09-22",
+   "role_hint": "Marketing AI Intern",
+   "seeded": false
+  },
   "Genpact": {
    "location": "Remote \u2014 US",
    "role_hint": "AI Operations Intern",
