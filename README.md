@@ -10,7 +10,7 @@ screened so that **no coding, programming language, or software-engineering skil
 Data tools (Tableau, Power BI, Alteryx, etc.) only appear when the posting says they're
 *preferred / a plus / not required / trained on the job*.
 
-**13 open roles · 4937 companies tracked · updated Sep 28, 2026 at 19:08 UTC**
+**12 open roles · 4937 companies tracked · updated Sep 29, 2026 at 00:08 UTC**
 
 ⭐ **Star this repo** to save it — the tables below rebuild themselves every 4 hours.
 
@@ -53,13 +53,13 @@ watching — companies trend earlier every year.*
 | IBM | AI Consulting Intern (RTP) | RTP, NC (Hybrid) | Sep 15, 2025 *(seeded estimate)* | ~Sep 15 · any day now | ⏳ waiting | shown when posting goes live |
 | Lenovo | AI Strategy / Marketing Intern | Morrisville, NC (Hybrid) | Sep 15, 2025 *(seeded estimate)* | ~Sep 15 · any day now | ⏳ waiting | shown when posting goes live |
 | MetLife | AI Enablement Intern (Global Technology Campus) | Cary, NC (Hybrid) | Sep 22, 2025 *(seeded estimate)* | ~Sep 22 · any day now | ⏳ waiting | shown when posting goes live |
-| Red Hat | AI Marketing / Program Intern | Raleigh, NC (Hybrid) | Sep 29, 2025 *(seeded estimate)* | ~Sep 29 · in ~0d | ⏳ waiting | shown when posting goes live |
-| First Citizens Bank | AI Operations Intern | Raleigh, NC (Hybrid) | Oct 06, 2025 *(seeded estimate)* | ~Oct 06 · in ~7d | ⏳ waiting | shown when posting goes live |
-| IQVIA | AI Commercial Solutions Intern | Durham, NC (Hybrid) | Oct 13, 2025 *(seeded estimate)* | ~Oct 13 · in ~14d | ⏳ waiting | shown when posting goes live |
-| Blue Cross NC | AI Strategy Intern | Durham, NC (Hybrid) | Oct 20, 2025 *(seeded estimate)* | ~Oct 20 · in ~21d | ⏳ waiting | shown when posting goes live |
-| Labcorp | AI Operations Intern | Durham, NC (Hybrid) | Oct 27, 2025 *(seeded estimate)* | ~Oct 27 · in ~28d | ⏳ waiting | shown when posting goes live |
-| Advance Auto Parts | AI Business Intern | Raleigh, NC (Hybrid) | Nov 03, 2025 *(seeded estimate)* | ~Nov 03 · in ~35d | ⏳ waiting | shown when posting goes live |
-| RTI International | AI Policy / Research Support Intern | RTP, NC (Hybrid) | Nov 10, 2025 *(seeded estimate)* | ~Nov 10 · in ~42d | ⏳ waiting | shown when posting goes live |
+| Red Hat | AI Marketing / Program Intern | Raleigh, NC (Hybrid) | Sep 29, 2025 *(seeded estimate)* | ~Sep 29 · any day now | ⏳ waiting | shown when posting goes live |
+| First Citizens Bank | AI Operations Intern | Raleigh, NC (Hybrid) | Oct 06, 2025 *(seeded estimate)* | ~Oct 06 · in ~6d | ⏳ waiting | shown when posting goes live |
+| IQVIA | AI Commercial Solutions Intern | Durham, NC (Hybrid) | Oct 13, 2025 *(seeded estimate)* | ~Oct 13 · in ~13d | ⏳ waiting | shown when posting goes live |
+| Blue Cross NC | AI Strategy Intern | Durham, NC (Hybrid) | Oct 20, 2025 *(seeded estimate)* | ~Oct 20 · in ~20d | ⏳ waiting | shown when posting goes live |
+| Labcorp | AI Operations Intern | Durham, NC (Hybrid) | Oct 27, 2025 *(seeded estimate)* | ~Oct 27 · in ~27d | ⏳ waiting | shown when posting goes live |
+| Advance Auto Parts | AI Business Intern | Raleigh, NC (Hybrid) | Nov 03, 2025 *(seeded estimate)* | ~Nov 03 · in ~34d | ⏳ waiting | shown when posting goes live |
+| RTI International | AI Policy / Research Support Intern | RTP, NC (Hybrid) | Nov 10, 2025 *(seeded estimate)* | ~Nov 10 · in ~41d | ⏳ waiting | shown when posting goes live |
 | Bandwidth | AI Enablement Intern | Raleigh, NC (Hybrid) | Jan 12, 2026 *(seeded estimate)* | ~Jan 12 | ⏳ waiting | shown when posting goes live |
 | Toshiba Global Commerce | AI Product Management Intern | Durham, NC | Jul 27, 2026 | ~Jul 27 | ⏳ waiting | Not specified |
 | Cigna Group | Artificial Intelligence Innovation Development Program (AIIDP) Summer Internship | NC, Raleigh, 701 Corporate Center Dr STE 200 | Sep 02, 2026 | ~Sep 02 | ✅ live now | Not specified |
@@ -85,19 +85,19 @@ watching — companies trend earlier every year.*
 | Walmart | AI Business Intern | Remote — US | Sep 08, 2025 *(seeded estimate)* | ~Sep 08 · any day now | ⏳ waiting | shown when posting goes live |
 | Accenture | AI Strategy Intern | Remote — US | Sep 15, 2025 *(seeded estimate)* | ~Sep 15 · any day now | ⏳ waiting | shown when posting goes live |
 | Salesforce | AI (Agentforce) Product Marketing Intern | Remote — US | Sep 22, 2025 *(seeded estimate)* | ~Sep 22 · any day now | ⏳ waiting | shown when posting goes live |
-| ServiceNow | AI Product Marketing Intern | Remote — US | Sep 29, 2025 *(seeded estimate)* | ~Sep 29 · in ~0d | ⏳ waiting | shown when posting goes live |
-| Adobe | AI Marketing Intern | Remote — US | Oct 06, 2025 *(seeded estimate)* | ~Oct 06 · in ~7d | ⏳ waiting | shown when posting goes live |
-| Scale AI | AI Operations / GTM Intern | Remote — US | Oct 13, 2025 *(seeded estimate)* | ~Oct 13 · in ~14d | ⏳ waiting | shown when posting goes live |
-| CVS Health | AI Adoption Intern | Remote — US | Oct 20, 2025 *(seeded estimate)* | ~Oct 20 · in ~21d | ⏳ waiting | shown when posting goes live |
-| PepsiCo | Commercial AI Intern | Remote — US | Oct 27, 2025 *(seeded estimate)* | ~Oct 27 · in ~28d | ⏳ waiting | shown when posting goes live |
-| Genpact | AI Operations Intern | Remote — US | Nov 17, 2025 *(seeded estimate)* | ~Nov 17 · in ~49d | ⏳ waiting | shown when posting goes live |
+| ServiceNow | AI Product Marketing Intern | Remote — US | Sep 29, 2025 *(seeded estimate)* | ~Sep 29 · any day now | ⏳ waiting | shown when posting goes live |
+| Adobe | AI Marketing Intern | Remote — US | Oct 06, 2025 *(seeded estimate)* | ~Oct 06 · in ~6d | ⏳ waiting | shown when posting goes live |
+| Scale AI | AI Operations / GTM Intern | Remote — US | Oct 13, 2025 *(seeded estimate)* | ~Oct 13 · in ~13d | ⏳ waiting | shown when posting goes live |
+| CVS Health | AI Adoption Intern | Remote — US | Oct 20, 2025 *(seeded estimate)* | ~Oct 20 · in ~20d | ⏳ waiting | shown when posting goes live |
+| PepsiCo | Commercial AI Intern | Remote — US | Oct 27, 2025 *(seeded estimate)* | ~Oct 27 · in ~27d | ⏳ waiting | shown when posting goes live |
+| Genpact | AI Operations Intern | Remote — US | Nov 17, 2025 *(seeded estimate)* | ~Nov 17 · in ~48d | ⏳ waiting | shown when posting goes live |
 | HubSpot | AI Content / Marketing Intern | Remote — US | Jan 05, 2026 *(seeded estimate)* | ~Jan 05 | ⏳ waiting | shown when posting goes live |
 | Writer | AI GTM / Marketing Intern | Remote — US | Jan 19, 2026 *(seeded estimate)* | ~Jan 19 | ⏳ waiting | shown when posting goes live |
 | Meshy | Generative AI Researcher Intern | Shanghai | Jan 22, 2026 | ~Jan 22 | ✅ live now | l-time internship for 12 weeks or longer - Intend to join Meshy full-time after graduation (ideally graduating from 9/20… |
 | Jasper | AI Marketing Intern | Remote — US | Feb 02, 2026 *(seeded estimate)* | ~Feb 02 | ⏳ waiting | shown when posting goes live |
 | Valsoft | AI Marketer Intern - USA | United States (Remote) | Mar 10, 2026 | ~Mar 10 | ⏳ waiting | Not specified |
 | Oxfam International | Intern, AI and Digital Innovation | Boston, MA, us (Remote) | May 13, 2026 | ~May 13 | ⏳ waiting | Not specified |
-| Sony | Research Intern on Generative and Protective AI for Content Creation | Remote - Michigan | Jun 08, 2026 | ~Jun 08 | ✅ live now | Not specified |
+| Sony | Research Intern on Generative and Protective AI for Content Creation | Remote - Michigan | Jun 08, 2026 | ~Jun 08 | ⏳ waiting | Not specified |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | USA - Remote | Jun 12, 2026 | ~Jun 12 | ✅ live now | Not specified |
 | Point C | Account Management AI Intern | United States - Remote | Jun 25, 2026 | ~Jun 25 | ⏳ waiting | Not specified |
 | SS&C | Healthcare AI & Automation Intern | Remote - Florida, US | Jul 22, 2026 | ~Jul 22 | ⏳ waiting | Not specified |
@@ -120,7 +120,6 @@ watching — companies trend earlier every year.*
 | Ancestry | AI Discovery Co-Op - Agentic Personalization | Remote | Not stated (verify) | Not specified | Sep 22, 2026 | [Apply](https://ancestry.wd501.myworkdayjobs.com/en-US/Careers/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442) |
 | G2 | Marketing AI Intern | Remote (US) | Not stated (verify) | Not specified | Sep 22, 2026 | [Apply](https://jobs.ashbyhq.com/g2/0f3d8bb1-43a9-47f8-9d80-4418b5c1bc7e) |
 | ONE Finance | AI Research Intern | United States (Remote) | Spring 2027 | l-Year Graduate Student: You’re in the final year of a master’s or PhD program, expected to graduate in Fall 2027 or Spr… | Sep 21, 2026 | [Apply](https://jobs.ashbyhq.com/oneapp/84beb108-c04b-42d3-a9ae-9a91210201b7) |
-| Sony | Research Intern on Generative and Protective AI for Content Creation | Remote - Texas | Not stated (verify) | Not specified | Sep 18, 2026 | [Apply](https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---Texas/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335) |
 | Amgen | Undergrad Intern – Digital Product – Technology, AI & Data (Summer 2027) | United States - Remote | Summer 2027 | Not specified | Sep 14, 2026 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Undergrad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255711) |
 | Amgen | Grad Intern – Digital Product – Technology, AI & Data (Summer 2027) | United States - Remote | Summer 2027 | Not specified | Sep 14, 2026 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Grad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255744) |
 | NewsBreak | New Market Launch Intern (MBA), Nearby AI | Bellevue, Washington, United States; Mountain View, California, United States; New York, New York, United States; Remote | Not stated (verify) | Not specified | Sep 03, 2026 | [Apply](https://job-boards.greenhouse.io/newsbreak/jobs/4711146006) |
@@ -170,4 +169,4 @@ this page through GitHub Actions **every 4 hours**.
 Adding a company takes one line in [`companies.csv`](companies.csv) — see
 [CONTRIBUTING.md](CONTRIBUTING.md).
 
-*Engine (last run): 4,937 companies polled across 11 job platforms · 94% fetch success · completed in 149s.*
+*Engine (last run): 4,937 companies polled across 11 job platforms · 94% fetch success · completed in 143s.*
