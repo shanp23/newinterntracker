@@ -10,7 +10,7 @@ screened so that **no coding, programming language, or software-engineering skil
 Data tools (Tableau, Power BI, Alteryx, etc.) only appear when the posting says they're
 *preferred / a plus / not required / trained on the job*.
 
-**13 open roles · 4996 companies tracked · updated Oct 05, 2026 at 11:06 UTC**
+**12 open roles · 4998 companies tracked · updated Oct 05, 2026 at 20:17 UTC**
 
 ⭐ **Star this repo** to save it — the tables below rebuild themselves every 4 hours.
 
@@ -62,7 +62,7 @@ watching — companies trend earlier every year.*
 | RTI International | AI Policy / Research Support Intern | RTP, NC (Hybrid) | Nov 10, 2025 *(seeded estimate)* | ~Nov 10 · in ~35d | ⏳ waiting | shown when posting goes live |
 | Bandwidth | AI Enablement Intern | Raleigh, NC (Hybrid) | Jan 12, 2026 *(seeded estimate)* | ~Jan 12 | ⏳ waiting | shown when posting goes live |
 | Toshiba Global Commerce | AI Product Management Intern | Durham, NC | Jul 27, 2026 | ~Jul 27 | ⏳ waiting | Not specified |
-| Cigna Group | Artificial Intelligence Innovation Development Program (AIIDP) Summer Internship | NC, Raleigh, 701 Corporate Center Dr STE 200 | Sep 02, 2026 | ~Sep 02 | ✅ live now | Not specified |
+| Cigna Group | Artificial Intelligence Innovation Development Program (AIIDP) Summer Internship | NC, Raleigh, 701 Corporate Center Dr STE 200 | Sep 02, 2026 | ~Sep 02 | ⏳ waiting | Not specified |
 
 
 ## 📍 Table 2 — Active Now: AI Internships in Raleigh–Durham
@@ -70,7 +70,6 @@ watching — companies trend earlier every year.*
 | Company | Role | Location | Cycle | Graduation Requirement | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
 | Collier Aerospace | NCSG AI Feature Development Internship (Summer 2027) | Raleigh, NC | Summer 2027 | Not specified | Sep 16, 2026 | [Apply](https://ats.rippling.com/collieraerospace/jobs/5a8bf9a3-c4f5-4c5a-ba9a-188979106827) |
-| Cigna Group | Artificial Intelligence Innovation Development Program (AIIDP) Summer Internship | NC, Raleigh, 701 Corporate Center Dr STE 200 | Not stated (verify) | Not specified | Sep 03, 2026 | [Apply](https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/NC-Raleigh-701-Corporate-Center-Dr-STE-200/Ai-Innovation-Development-Program--AIIDP--Summer-internship_26010712) |
 
 
 ## 🌐 Table 3 — Drop Radar: US-Remote AI Internships
@@ -171,4 +170,4 @@ this page through GitHub Actions **every 4 hours**.
 Adding a company takes one line in [`companies.csv`](companies.csv) — see
 [CONTRIBUTING.md](CONTRIBUTING.md).
 
-*Engine (last run): 4,996 companies polled across 11 job platforms · 93% fetch success · completed in 125s.*
+*Engine (last run): 4,998 companies polled across 11 job platforms · 93% fetch success · completed in 120s.*
