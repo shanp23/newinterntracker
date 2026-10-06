@@ -10,7 +10,7 @@ screened so that **no coding, programming language, or software-engineering skil
 Data tools (Tableau, Power BI, Alteryx, etc.) only appear when the posting says they're
 *preferred / a plus / not required / trained on the job*.
 
-**12 open roles · 4998 companies tracked · updated Oct 06, 2026 at 14:40 UTC**
+**14 open roles · 5018 companies tracked · updated Oct 06, 2026 at 20:44 UTC**
 
 ⭐ **Star this repo** to save it — the tables below rebuild themselves every 4 hours.
 
@@ -117,8 +117,10 @@ watching — companies trend earlier every year.*
 
 | Company | Role | Location | Cycle | Graduation Requirement | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
+| Ancestry | AI Discovery Co-Op - Agentic Personalization | Remote | Not stated (verify) | Not specified | Oct 06, 2026 | [Apply](https://ancestry.wd501.myworkdayjobs.com/en-US/Careers/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442) |
+| Leidos | Business Systems AI Intern | 6314 Remote/Teleworker US | Not stated (verify) | Not specified | Oct 06, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193327) |
+| Leidos | Business Systems AI Intern | 6314 Remote/Teleworker US | Not stated (verify) | Not specified | Oct 06, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193767) |
 | Leidos | Business Systems AI Intern | 6314 Remote/Teleworker US | Not stated (verify) | Not specified | Oct 02, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193770) |
-| Ancestry | AI Discovery Co-Op - Agentic Personalization | Remote | Not stated (verify) | Not specified | Sep 22, 2026 | [Apply](https://ancestry.wd501.myworkdayjobs.com/en-US/Careers/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442) |
 | G2 | Marketing AI Intern | Remote (US) | Not stated (verify) | Not specified | Sep 22, 2026 | [Apply](https://jobs.ashbyhq.com/g2/0f3d8bb1-43a9-47f8-9d80-4418b5c1bc7e) |
 | ONE Finance | AI Research Intern | United States (Remote) | Spring 2027 | l-Year Graduate Student: You’re in the final year of a master’s or PhD program, expected to graduate in Fall 2027 or Spr… | Sep 21, 2026 | [Apply](https://jobs.ashbyhq.com/oneapp/84beb108-c04b-42d3-a9ae-9a91210201b7) |
 | Amgen | Undergrad Intern – Digital Product – Technology, AI & Data (Summer 2027) | United States - Remote | Summer 2027 | Not specified | Sep 14, 2026 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Undergrad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255711) |
@@ -170,4 +172,4 @@ this page through GitHub Actions **every 4 hours**.
 Adding a company takes one line in [`companies.csv`](companies.csv) — see
 [CONTRIBUTING.md](CONTRIBUTING.md).
 
-*Engine (last run): 4,998 companies polled across 11 job platforms · 94% fetch success · completed in 140s.*
+*Engine (last run): 5,018 companies polled across 11 job platforms · 94% fetch success · completed in 136s.*
