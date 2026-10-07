@@ -10,7 +10,7 @@ screened so that **no coding, programming language, or software-engineering skil
 Data tools (Tableau, Power BI, Alteryx, etc.) only appear when the posting says they're
 *preferred / a plus / not required / trained on the job*.
 
-**14 open roles · 5018 companies tracked · updated Oct 07, 2026 at 10:54 UTC**
+**16 open roles · 5024 companies tracked · updated Oct 07, 2026 at 18:20 UTC**
 
 ⭐ **Star this repo** to save it — the tables below rebuild themselves every 4 hours.
 
@@ -98,7 +98,7 @@ watching — companies trend earlier every year.*
 | Oxfam International | Intern, AI and Digital Innovation | Boston, MA, us (Remote) | May 13, 2026 | ~May 13 | ⏳ waiting | Not specified |
 | Sony | Research Intern on Generative and Protective AI for Content Creation | Remote - Michigan | Jun 08, 2026 | ~Jun 08 | ⏳ waiting | Not specified |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | USA - Remote | Jun 12, 2026 | ~Jun 12 | ✅ live now | Not specified |
-| Point C | Account Management AI Intern | United States - Remote | Jun 25, 2026 | ~Jun 25 | ⏳ waiting | Not specified |
+| Point C | Account Management AI Intern | United States - Remote | Jun 25, 2026 | ~Jun 25 | ✅ live now | Not specified |
 | SS&C | Healthcare AI & Automation Intern | Remote - Florida, US | Jul 22, 2026 | ~Jul 22 | ⏳ waiting | Not specified |
 | Boston Medical Center | Cybersecurity & AI/Data Governance Intern | Remote | Jul 23, 2026 | ~Jul 23 | ⏳ waiting | Not specified |
 | Concentric | Internship, AI Workflow Optimization, Fall 2026 (Remote) | Remote | Aug 10, 2026 | ~Aug 10 | ⏳ waiting | Not specified |
@@ -117,6 +117,7 @@ watching — companies trend earlier every year.*
 
 | Company | Role | Location | Cycle | Graduation Requirement | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
+| Leidos | Business Systems AI Intern | 6314 Remote/Teleworker US | Not stated (verify) | Not specified | Oct 07, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193769) |
 | Ancestry | AI Discovery Co-Op - Agentic Personalization | Remote | Not stated (verify) | Not specified | Oct 06, 2026 | [Apply](https://ancestry.wd501.myworkdayjobs.com/en-US/Careers/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442) |
 | Leidos | Business Systems AI Intern | 6314 Remote/Teleworker US | Not stated (verify) | Not specified | Oct 06, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193327) |
 | Leidos | Business Systems AI Intern | 6314 Remote/Teleworker US | Not stated (verify) | Not specified | Oct 06, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193767) |
@@ -126,6 +127,7 @@ watching — companies trend earlier every year.*
 | Amgen | Undergrad Intern – Digital Product – Technology, AI & Data (Summer 2027) | United States - Remote | Summer 2027 | Not specified | Sep 14, 2026 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Undergrad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255711) |
 | Amgen | Grad Intern – Digital Product – Technology, AI & Data (Summer 2027) | United States - Remote | Summer 2027 | Not specified | Sep 14, 2026 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Grad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255744) |
 | NewsBreak | New Market Launch Intern (MBA), Nearby AI | Bellevue, Washington, United States; Mountain View, California, United States; New York, New York, United States; Remote | Not stated (verify) | Not specified | Sep 03, 2026 | [Apply](https://job-boards.greenhouse.io/newsbreak/jobs/4711146006) |
+| Point C | Healthcare Informatics AI Intern | United States - Remote | Not stated (verify) | Not specified | Jun 25, 2026 | [Apply](https://job-boards.greenhouse.io/pointc/jobs/5282758008) |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | USA - Remote | Not stated (verify) | Not specified | Jun 12, 2026 | [Apply](https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65915) |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | USA - Remote | Not stated (verify) | Not specified | Jun 12, 2026 | [Apply](https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65913) |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | USA - Remote | Not stated (verify) | Not specified | Jun 12, 2026 | [Apply](https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65914) |
@@ -172,4 +174,4 @@ this page through GitHub Actions **every 4 hours**.
 Adding a company takes one line in [`companies.csv`](companies.csv) — see
 [CONTRIBUTING.md](CONTRIBUTING.md).
 
-*Engine (last run): 5,018 companies polled across 11 job platforms · 93% fetch success · completed in 119s.*
+*Engine (last run): 5,024 companies polled across 11 job platforms · 94% fetch success · completed in 143s.*
