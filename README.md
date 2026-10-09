@@ -10,7 +10,7 @@ screened so that **no coding, programming language, or software-engineering skil
 Data tools (Tableau, Power BI, Alteryx, etc.) only appear when the posting says they're
 *preferred / a plus / not required / trained on the job*.
 
-**17 open roles · 5032 companies tracked · updated Oct 09, 2026 at 14:54 UTC**
+**16 open roles · 5039 companies tracked · updated Oct 09, 2026 at 20:30 UTC**
 
 ⭐ **Star this repo** to save it — the tables below rebuild themselves every 4 hours.
 
@@ -111,14 +111,13 @@ watching — companies trend earlier every year.*
 | Amgen | Undergrad Intern – Digital Product – Technology, AI & Data (Summer 2027) | United States - Remote | Sep 14, 2026 | ~Sep 14 | ✅ live now | Not specified |
 | G2 | Marketing AI Intern | Remote (US) | Sep 22, 2026 | ~Sep 22 | ✅ live now | Not specified |
 | Leidos | Business Systems AI Intern | 6314 Remote/Teleworker US | Oct 02, 2026 | ~Oct 02 | ✅ live now | Not specified |
-| Centific | AI Research Intern -  Physical AI | Remote Work( USA) | Oct 08, 2026 | ~Oct 08 | ✅ live now | Not specified |
+| Centific | AI Research Intern -  Physical AI | Remote Work( USA) | Oct 08, 2026 | ~Oct 08 | ⏳ waiting | Not specified |
 
 
 ## 🌐 Table 4 — Active Now: US-Remote AI Internships
 
 | Company | Role | Location | Cycle | Graduation Requirement | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
-| Centific | AI Research Intern -  Physical AI | Remote Work( USA) | Not stated (verify) | Not specified | Oct 08, 2026 | [Apply](https://centific.wd1.myworkdayjobs.com/en-US/Centific_Global/job/Remote-Work-USA/AI-Research-Intern----Physical-AI_JR108131-1) |
 | Leidos | Business Systems AI Intern | 6314 Remote/Teleworker US | Not stated (verify) | Not specified | Oct 07, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193769) |
 | Ancestry | AI Discovery Co-Op - Agentic Personalization | Remote | Not stated (verify) | Not specified | Oct 06, 2026 | [Apply](https://ancestry.wd501.myworkdayjobs.com/en-US/Careers/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442) |
 | Leidos | Business Systems AI Intern | 6314 Remote/Teleworker US | Not stated (verify) | Not specified | Oct 06, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193327) |
@@ -176,4 +175,4 @@ this page through GitHub Actions **every 4 hours**.
 Adding a company takes one line in [`companies.csv`](companies.csv) — see
 [CONTRIBUTING.md](CONTRIBUTING.md).
 
-*Engine (last run): 5,032 companies polled across 11 job platforms · 94% fetch success · completed in 134s.*
+*Engine (last run): 5,039 companies polled across 11 job platforms · 94% fetch success · completed in 145s.*
