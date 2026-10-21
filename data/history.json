@@ -210,6 +210,13 @@
    "seed_first_post": "2026-02-02",
    "seeded": true
   },
+  "Julius AI": {
+   "grad": "Not specified",
+   "location": "Remote",
+   "observed_first_post": "2026-10-21",
+   "role_hint": "Investment Banking - AI Research (MBA Intern)",
+   "seeded": false
+  },
   "KPMG": {
    "location": "Remote \u2014 US",
    "role_hint": "AI Advisory Intern",
