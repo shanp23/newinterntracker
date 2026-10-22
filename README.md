@@ -10,7 +10,7 @@ screened so that **no coding, programming language, or software-engineering skil
 Data tools (Tableau, Power BI, Alteryx, etc.) only appear when the posting says they're
 *preferred / a plus / not required / trained on the job*.
 
-**15 open roles · 5117 companies tracked · updated Oct 22, 2026 at 09:06 UTC**
+**16 open roles · 5127 companies tracked · updated Oct 22, 2026 at 16:30 UTC**
 
 ⭐ **Star this repo** to save it — the tables below rebuild themselves every 4 hours.
 
@@ -112,12 +112,14 @@ _No qualifying postings are live right now. The engine re-checks every 4 hours �
 | Centific | AI Research Intern -  Physical AI | Remote Work( USA) | Oct 08, 2026 | ~Oct 08 | ⏳ waiting | Not specified |
 | Nubank | Nu AI Core Summer PhD Research Internship | Palo Alto | Oct 19, 2026 | ~Oct 19 | ✅ live now | Not specified |
 | Julius AI | Investment Banking - AI Research (MBA Intern) | Remote | Oct 21, 2026 | ~Oct 21 | ✅ live now | Not specified |
+| OpenArt AI | Early Adopter & Product Builder Intern, Creative AI | San Carlos, California, USA | Oct 22, 2026 | ~Oct 22 | ✅ live now | Not specified |
 
 
 ## 🌐 Table 4 — Active Now: US-Remote AI Internships
 
 | Company | Role | Location | Cycle | Graduation Requirement | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
+| OpenArt AI | Early Adopter & Product Builder Intern, Creative AI | San Carlos, California, USA | Not stated (verify) | Not specified | Oct 22, 2026 | [Apply](https://jobs.ashbyhq.com/openart/8dd52ba6-a5b6-40b1-95fe-50de352fa254) |
 | Julius AI | Investment Banking - AI Research (MBA Intern) | Remote | Not stated (verify) | Not specified | Oct 21, 2026 | [Apply](https://jobs.ashbyhq.com/julius/8e228c39-4a79-4202-bdbf-dddb703693cc) |
 | Nubank | Nu AI Core Summer PhD Research Internship | Palo Alto | Not stated (verify) | Not specified | Oct 19, 2026 | [Apply](https://jobs.ashbyhq.com/nubank/3835ec58-5e5a-4bd4-a076-4a8f89490011) |
 | Leidos | Business Systems AI Intern | 6314 Remote/Teleworker US | Not stated (verify) | Not specified | Oct 07, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193769) |
@@ -175,4 +177,4 @@ this page through GitHub Actions **every 4 hours**.
 Adding a company takes one line in [`companies.csv`](companies.csv) — see
 [CONTRIBUTING.md](CONTRIBUTING.md).
 
-*Engine (last run): 5,117 companies polled across 11 job platforms · 94% fetch success · completed in 154s.*
+*Engine (last run): 5,127 companies polled across 11 job platforms · 94% fetch success · completed in 180s.*
