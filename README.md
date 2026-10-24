@@ -10,7 +10,7 @@ screened so that **no coding, programming language, or software-engineering skil
 Data tools (Tableau, Power BI, Alteryx, etc.) only appear when the posting says they're
 *preferred / a plus / not required / trained on the job*.
 
-**16 open roles · 5146 companies tracked · updated Oct 24, 2026 at 03:00 UTC**
+**15 open roles · 5146 companies tracked · updated Oct 24, 2026 at 08:34 UTC**
 
 ⭐ **Star this repo** to save it — the tables below rebuild themselves every 4 hours.
 
@@ -103,7 +103,7 @@ _No qualifying postings are live right now. The engine re-checks every 4 hours �
 | Kognitos | Marketing Intern (AI-Native) | San Jose - HQ | Aug 26, 2026 | ~Aug 26 | ⏳ waiting | Not specified |
 | Acumatica | AI & Automation Intern, Office of the CFO | Bellevue, WA, us (Remote) | Sep 01, 2026 | ~Sep 01 | ⏳ waiting | Not specified |
 | Revvity | Product Manager Intern - AI Finance Automation | CAD Remote – ON | Sep 02, 2026 | ~Sep 02 | ⏳ waiting | Not specified |
-| Ancestry | Applied AI Science Co-op - Embedding models and Personalization | Remote | Sep 03, 2026 | ~Sep 03 | ✅ live now | Not specified |
+| Ancestry | Applied AI Science Co-op - Embedding models and Personalization | Remote | Sep 03, 2026 | ~Sep 03 | ⏳ waiting | Not specified |
 | NewsBreak | New Market Launch Intern (MBA), Nearby AI | Bellevue, Washington, United States; Mountain View, California, United States; New York, New York, United States; Remote | Sep 03, 2026 | ~Sep 03 | ⏳ waiting | Not specified |
 | ONE Finance | AI Research, Intern | United States (Remote) | Sep 08, 2026 | ~Sep 08 | ✅ live now | YOU BRING - Pursuing a Bachelor’s Degree: You’re a current student expected to graduate in the Fall 2027/Spring of 2028 … |
 | Amgen | Undergrad Intern – Digital Product – Technology, AI & Data (Summer 2027) | United States - Remote | Sep 14, 2026 | ~Sep 14 | ✅ live now | Not specified |
@@ -125,7 +125,6 @@ _No qualifying postings are live right now. The engine re-checks every 4 hours �
 | Julius AI | Investment Banking - AI Research (MBA Intern) | Remote | Not stated (verify) | Not specified | Oct 21, 2026 | [Apply](https://jobs.ashbyhq.com/julius/8e228c39-4a79-4202-bdbf-dddb703693cc) |
 | Nubank | Nu AI Core Summer PhD Research Internship | Palo Alto | Not stated (verify) | Not specified | Oct 19, 2026 | [Apply](https://jobs.ashbyhq.com/nubank/3835ec58-5e5a-4bd4-a076-4a8f89490011) |
 | Leidos | Business Systems AI Intern | 6314 Remote/Teleworker US | Not stated (verify) | Not specified | Oct 07, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193769) |
-| Ancestry | AI Discovery Co-Op - Agentic Personalization | Remote | Not stated (verify) | Not specified | Oct 06, 2026 | [Apply](https://ancestry.wd501.myworkdayjobs.com/en-US/Careers/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442) |
 | Leidos | Business Systems AI Intern | 6314 Remote/Teleworker US | Not stated (verify) | Not specified | Oct 06, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193327) |
 | Leidos | Business Systems AI Intern | 6314 Remote/Teleworker US | Not stated (verify) | Not specified | Oct 06, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193767) |
 | Leidos | Business Systems AI Intern | 6314 Remote/Teleworker US | Not stated (verify) | Not specified | Oct 02, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193770) |
@@ -178,4 +177,4 @@ this page through GitHub Actions **every 4 hours**.
 Adding a company takes one line in [`companies.csv`](companies.csv) — see
 [CONTRIBUTING.md](CONTRIBUTING.md).
 
-*Engine (last run): 5,146 companies polled across 11 job platforms · 94% fetch success · completed in 162s.*
+*Engine (last run): 5,146 companies polled across 11 job platforms · 93% fetch success · completed in 136s.*
