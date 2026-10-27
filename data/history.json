@@ -179,6 +179,13 @@
    "seed_first_post": "2025-08-18",
    "seeded": true
   },
+  "EQT Corporation": {
+   "grad": "Not specified",
+   "location": "Remote",
+   "observed_first_post": "2026-10-27",
+   "role_hint": "AI Intern",
+   "seeded": false
+  },
   "EY": {
    "location": "Remote \u2014 US",
    "role_hint": "AI Consulting Intern",
