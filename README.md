@@ -10,7 +10,7 @@ screened so that **no coding, programming language, or software-engineering skil
 Data tools (Tableau, Power BI, Alteryx, etc.) only appear when the posting says they're
 *preferred / a plus / not required / trained on the job*.
 
-**17 open roles · 5333 companies tracked · updated Nov 01, 2026 at 23:18 UTC**
+**19 open roles · 5333 companies tracked · updated Nov 02, 2026 at 04:01 UTC**
 
 ⭐ **Star this repo** to save it — the tables below rebuild themselves every 4 hours.
 
@@ -58,8 +58,8 @@ watching — companies trend earlier every year.*
 | IQVIA | AI Commercial Solutions Intern | Durham, NC (Hybrid) | Oct 13, 2025 *(seeded estimate)* | ~Oct 13 · any day now | ⏳ waiting | shown when posting goes live |
 | Blue Cross NC | AI Strategy Intern | Durham, NC (Hybrid) | Oct 20, 2025 *(seeded estimate)* | ~Oct 20 · any day now | ⏳ waiting | shown when posting goes live |
 | Labcorp | AI Operations Intern | Durham, NC (Hybrid) | Oct 27, 2025 *(seeded estimate)* | ~Oct 27 · any day now | ⏳ waiting | shown when posting goes live |
-| Advance Auto Parts | AI Business Intern | Raleigh, NC (Hybrid) | Nov 03, 2025 *(seeded estimate)* | ~Nov 03 · in ~1d | ⏳ waiting | shown when posting goes live |
-| RTI International | AI Policy / Research Support Intern | RTP, NC (Hybrid) | Nov 10, 2025 *(seeded estimate)* | ~Nov 10 · in ~8d | ⏳ waiting | shown when posting goes live |
+| Advance Auto Parts | AI Business Intern | Raleigh, NC (Hybrid) | Nov 03, 2025 *(seeded estimate)* | ~Nov 03 · in ~0d | ⏳ waiting | shown when posting goes live |
+| RTI International | AI Policy / Research Support Intern | RTP, NC (Hybrid) | Nov 10, 2025 *(seeded estimate)* | ~Nov 10 · in ~7d | ⏳ waiting | shown when posting goes live |
 | Bandwidth | AI Enablement Intern | Raleigh, NC (Hybrid) | Jan 12, 2026 *(seeded estimate)* | ~Jan 12 | ⏳ waiting | shown when posting goes live |
 | Toshiba Global Commerce | AI Product Management Intern | Durham, NC | Jul 27, 2026 | ~Jul 27 | ⏳ waiting | Not specified |
 | Cigna Group | Artificial Intelligence Innovation Development Program (AIIDP) Summer Internship | NC, Raleigh, 701 Corporate Center Dr STE 200 | Sep 02, 2026 | ~Sep 02 | ⏳ waiting | Not specified |
@@ -87,7 +87,7 @@ _No qualifying postings are live right now. The engine re-checks every 4 hours �
 | Scale AI | AI Operations / GTM Intern | Remote — US | Oct 13, 2025 *(seeded estimate)* | ~Oct 13 · any day now | ⏳ waiting | shown when posting goes live |
 | CVS Health | AI Adoption Intern | Remote — US | Oct 20, 2025 *(seeded estimate)* | ~Oct 20 · any day now | ⏳ waiting | shown when posting goes live |
 | PepsiCo | Commercial AI Intern | Remote — US | Oct 27, 2025 *(seeded estimate)* | ~Oct 27 · any day now | ⏳ waiting | shown when posting goes live |
-| Genpact | AI Operations Intern | Remote — US | Nov 17, 2025 *(seeded estimate)* | ~Nov 17 · in ~15d | ⏳ waiting | shown when posting goes live |
+| Genpact | AI Operations Intern | Remote — US | Nov 17, 2025 *(seeded estimate)* | ~Nov 17 · in ~14d | ⏳ waiting | shown when posting goes live |
 | HubSpot | AI Content / Marketing Intern | Remote — US | Jan 05, 2026 *(seeded estimate)* | ~Jan 05 | ⏳ waiting | shown when posting goes live |
 | Writer | AI GTM / Marketing Intern | Remote — US | Jan 19, 2026 *(seeded estimate)* | ~Jan 19 | ⏳ waiting | shown when posting goes live |
 | Meshy | Generative AI Researcher Intern | Shanghai | Jan 22, 2026 | ~Jan 22 | ✅ live now | l-time internship for 12 weeks or longer - Intend to join Meshy full-time after graduation (ideally graduating from 9/20… |
@@ -117,12 +117,15 @@ _No qualifying postings are live right now. The engine re-checks every 4 hours �
 | EQT Corporation | AI Intern | Remote | Oct 27, 2026 | ~Oct 27 | ✅ live now | Not specified |
 | Centene | AI Design Systems Intern (Master's - Summer 2027) | Remote-MO | Oct 28, 2026 | ~Oct 28 | ⏳ waiting | Not specified |
 | CareSource | 2027 Summer Internship Program - AI Intern | Remote | Oct 29, 2026 | ~Oct 29 | ✅ live now | Not specified |
+| GE Aerospace | Artificial Intelligence Intern | Remote | Nov 02, 2026 | ~Nov 02 | ✅ live now | Not specified |
 
 
 ## 🌐 Table 4 — Active Now: US-Remote AI Internships
 
 | Company | Role | Location | Cycle | Graduation Requirement | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
+| GE Aerospace | Artificial Intelligence Intern | Remote | Not stated (verify) | Not specified | Nov 02, 2026 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/ge_externalsite/job/Remote/Artificial-Intelligence-Intern_R5042294-1) |
+| GE Aerospace | Artificial Intelligence Intern | Remote | Not stated (verify) | Not specified | Nov 02, 2026 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/ge_externalsite/job/Remote/Artificial-Intelligence-Intern_R5042291-1) |
 | CareSource | 2027 Summer Internship Program - AI Intern | Remote | Summer 2027 | Not specified | Oct 29, 2026 | [Apply](https://caresource.wd1.myworkdayjobs.com/en-US/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---AI-Intern_R14123) |
 | CareSource | 2027 Summer Internship Program - AI Healthcare Operations | Remote | Summer 2027 | Not specified | Oct 29, 2026 | [Apply](https://caresource.wd1.myworkdayjobs.com/en-US/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---AI-Healthcare-Operations_R14126) |
 | EQT Corporation | AI Intern | Remote | Not stated (verify) | Not specified | Oct 27, 2026 | [Apply](https://job-boards.greenhouse.io/eqtcorporation/jobs/5462562008) |
@@ -182,4 +185,4 @@ this page through GitHub Actions **every 4 hours**.
 Adding a company takes one line in [`companies.csv`](companies.csv) — see
 [CONTRIBUTING.md](CONTRIBUTING.md).
 
-*Engine (last run): 5,333 companies polled across 11 job platforms · 94% fetch success · completed in 152s.*
+*Engine (last run): 5,333 companies polled across 11 job platforms · 94% fetch success · completed in 162s.*
