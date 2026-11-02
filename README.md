@@ -10,7 +10,7 @@ screened so that **no coding, programming language, or software-engineering skil
 Data tools (Tableau, Power BI, Alteryx, etc.) only appear when the posting says they're
 *preferred / a plus / not required / trained on the job*.
 
-**19 open roles · 5333 companies tracked · updated Nov 02, 2026 at 04:01 UTC**
+**20 open roles · 5333 companies tracked · updated Nov 02, 2026 at 17:43 UTC**
 
 ⭐ **Star this repo** to save it — the tables below rebuild themselves every 4 hours.
 
@@ -67,7 +67,9 @@ watching — companies trend earlier every year.*
 
 ## 📍 Table 2 — Active Now: AI Internships in Raleigh–Durham
 
-_No qualifying postings are live right now. The engine re-checks every 4 hours — watch the Drop Radar below for what's coming._
+| Company | Role | Location | Cycle | Graduation Requirement | Posted | Apply |
+| --- | --- | --- | --- | --- | --- | --- |
+| Toshiba Global Commerce | AI Automation & Revenue Ops Intern | Durham, NC | Spring 2027 | Not specified | Nov 02, 2026 | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5270466007) |
 
 
 ## 🌐 Table 3 — Drop Radar: US-Remote AI Internships
@@ -185,4 +187,4 @@ this page through GitHub Actions **every 4 hours**.
 Adding a company takes one line in [`companies.csv`](companies.csv) — see
 [CONTRIBUTING.md](CONTRIBUTING.md).
 
-*Engine (last run): 5,333 companies polled across 11 job platforms · 94% fetch success · completed in 162s.*
+*Engine (last run): 5,333 companies polled across 11 job platforms · 94% fetch success · completed in 163s.*
