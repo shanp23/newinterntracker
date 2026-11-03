@@ -10,7 +10,7 @@ screened so that **no coding, programming language, or software-engineering skil
 Data tools (Tableau, Power BI, Alteryx, etc.) only appear when the posting says they're
 *preferred / a plus / not required / trained on the job*.
 
-**20 open roles · 5337 companies tracked · updated Nov 03, 2026 at 11:33 UTC**
+**19 open roles · 5343 companies tracked · updated Nov 03, 2026 at 18:57 UTC**
 
 ⭐ **Star this repo** to save it — the tables below rebuild themselves every 4 hours.
 
@@ -128,7 +128,6 @@ watching — companies trend earlier every year.*
 | --- | --- | --- | --- | --- | --- | --- |
 | GE Aerospace | Artificial Intelligence Intern | Remote | Not stated (verify) | Not specified | Nov 03, 2026 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/ge_externalsite/job/Remote/Artificial-Intelligence-Intern_R5042291-1) |
 | GE Aerospace | Artificial Intelligence Intern | Remote | Not stated (verify) | Not specified | Nov 03, 2026 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/ge_externalsite/job/Remote/Artificial-Intelligence-Intern_R5042294-1) |
-| CareSource | 2027 Summer Internship Program - AI Intern | Remote | Summer 2027 | Not specified | Oct 29, 2026 | [Apply](https://caresource.wd1.myworkdayjobs.com/en-US/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---AI-Intern_R14123) |
 | CareSource | 2027 Summer Internship Program - AI Healthcare Operations | Remote | Summer 2027 | Not specified | Oct 29, 2026 | [Apply](https://caresource.wd1.myworkdayjobs.com/en-US/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---AI-Healthcare-Operations_R14126) |
 | EQT Corporation | AI Intern | Remote | Not stated (verify) | Not specified | Oct 27, 2026 | [Apply](https://job-boards.greenhouse.io/eqtcorporation/jobs/5462562008) |
 | OpenArt AI | Early Adopter & Product Builder Intern, Creative AI | San Carlos, California, USA | Not stated (verify) | Not specified | Oct 22, 2026 | [Apply](https://jobs.ashbyhq.com/openart/8dd52ba6-a5b6-40b1-95fe-50de352fa254) |
@@ -187,4 +186,4 @@ this page through GitHub Actions **every 4 hours**.
 Adding a company takes one line in [`companies.csv`](companies.csv) — see
 [CONTRIBUTING.md](CONTRIBUTING.md).
 
-*Engine (last run): 5,337 companies polled across 11 job platforms · 93% fetch success · completed in 132s.*
+*Engine (last run): 5,343 companies polled across 11 job platforms · 94% fetch success · completed in 166s.*
