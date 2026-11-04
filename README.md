@@ -10,7 +10,7 @@ screened so that **no coding, programming language, or software-engineering skil
 Data tools (Tableau, Power BI, Alteryx, etc.) only appear when the posting says they're
 *preferred / a plus / not required / trained on the job*.
 
-**19 open roles · 5343 companies tracked · updated Nov 04, 2026 at 11:48 UTC**
+**20 open roles · 5348 companies tracked · updated Nov 04, 2026 at 19:15 UTC**
 
 ⭐ **Star this repo** to save it — the tables below rebuild themselves every 4 hours.
 
@@ -117,7 +117,7 @@ watching — companies trend earlier every year.*
 | OpenArt AI | Early Adopter & Product Builder Intern, Creative AI | San Carlos, California, USA | Oct 22, 2026 | ~Oct 22 | ✅ live now | Not specified |
 | OpenSesame | AI Product Builder Intern | Remote | Oct 22, 2026 | ~Oct 22 | ✅ live now | Not specified |
 | EQT Corporation | AI Intern | Remote | Oct 27, 2026 | ~Oct 27 | ✅ live now | Not specified |
-| Centene | AI Design Systems Intern (Master's - Summer 2027) | Remote-MO | Oct 28, 2026 | ~Oct 28 | ⏳ waiting | Not specified |
+| Centene | AI Design Systems Intern (Master's - Summer 2027) | Remote-MO | Oct 28, 2026 | ~Oct 28 | ✅ live now | Not specified |
 | CareSource | 2027 Summer Internship Program - AI Intern | Remote | Oct 29, 2026 | ~Oct 29 | ✅ live now | Not specified |
 | GE Aerospace | Artificial Intelligence Intern | Remote | Nov 02, 2026 | ~Nov 02 | ✅ live now | Not specified |
 
@@ -126,6 +126,7 @@ watching — companies trend earlier every year.*
 
 | Company | Role | Location | Cycle | Graduation Requirement | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
+| Centene | AI Business Strategy Intern (Undergraduate Summer 2027) | Remote-MO | Summer 2027 | Not specified | Nov 04, 2026 | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-MO/AI-Business-Strategy-Intern--Undergraduate-Summer-2027-_1667703-1) |
 | GE Aerospace | Artificial Intelligence Intern | Remote | Not stated (verify) | Not specified | Nov 03, 2026 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/ge_externalsite/job/Remote/Artificial-Intelligence-Intern_R5042291-1) |
 | GE Aerospace | Artificial Intelligence Intern | Remote | Not stated (verify) | Not specified | Nov 03, 2026 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/ge_externalsite/job/Remote/Artificial-Intelligence-Intern_R5042294-1) |
 | CareSource | 2027 Summer Internship Program - AI Healthcare Operations | Remote | Summer 2027 | Not specified | Oct 29, 2026 | [Apply](https://caresource.wd1.myworkdayjobs.com/en-US/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---AI-Healthcare-Operations_R14126) |
@@ -186,4 +187,4 @@ this page through GitHub Actions **every 4 hours**.
 Adding a company takes one line in [`companies.csv`](companies.csv) — see
 [CONTRIBUTING.md](CONTRIBUTING.md).
 
-*Engine (last run): 5,343 companies polled across 11 job platforms · 93% fetch success · completed in 133s.*
+*Engine (last run): 5,348 companies polled across 11 job platforms · 93% fetch success · completed in 189s.*
