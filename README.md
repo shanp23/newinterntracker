@@ -10,7 +10,7 @@ screened so that **no coding, programming language, or software-engineering skil
 Data tools (Tableau, Power BI, Alteryx, etc.) only appear when the posting says they're
 *preferred / a plus / not required / trained on the job*.
 
-**18 open roles · 5379 companies tracked · updated Nov 08, 2026 at 14:42 UTC**
+**18 open roles · 5380 companies tracked · updated Nov 08, 2026 at 20:06 UTC**
 
 ⭐ **Star this repo** to save it — the tables below rebuild themselves every 4 hours.
 
@@ -129,8 +129,8 @@ watching — companies trend earlier every year.*
 | Leidos | AI/Automation Development Intern - Assessment & Authorization | 6314 Remote/Teleworker US | Not stated (verify) | Not specified | Nov 06, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/AI-Automation-Development-Intern---Assessment---Authorization_R-00195319) |
 | CareSource | 2027 Summer Internship Program - AI Healthcare Operations | Remote | Summer 2027 | Not specified | Oct 29, 2026 | [Apply](https://caresource.wd1.myworkdayjobs.com/en-US/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---AI-Healthcare-Operations_R14126) |
 | EQT Corporation | AI Intern | Remote | Not stated (verify) | Not specified | Oct 27, 2026 | [Apply](https://job-boards.greenhouse.io/eqtcorporation/jobs/5462562008) |
-| OpenSesame | AI Product Builder Intern | Remote | Not stated (verify) | Not specified | Oct 22, 2026 | [Apply](https://boards.greenhouse.io/opensesame/jobs/8313424?gh_jid=8313424) |
 | OpenArt AI | Early Adopter & Product Builder Intern, Creative AI | San Carlos, California, USA | Not stated (verify) | Not specified | Oct 22, 2026 | [Apply](https://jobs.ashbyhq.com/openart/8dd52ba6-a5b6-40b1-95fe-50de352fa254) |
+| OpenSesame | AI Product Builder Intern | Remote | Not stated (verify) | Not specified | Oct 22, 2026 | [Apply](https://boards.greenhouse.io/opensesame/jobs/8313424?gh_jid=8313424) |
 | Julius AI | Investment Banking - AI Research (MBA Intern) | Remote | Not stated (verify) | Not specified | Oct 21, 2026 | [Apply](https://jobs.ashbyhq.com/julius/8e228c39-4a79-4202-bdbf-dddb703693cc) |
 | Nubank | Nu AI Core Summer PhD Research Internship | Palo Alto | Not stated (verify) | Not specified | Oct 19, 2026 | [Apply](https://jobs.ashbyhq.com/nubank/3835ec58-5e5a-4bd4-a076-4a8f89490011) |
 | Leidos | Business Systems AI Intern | 6314 Remote/Teleworker US | Not stated (verify) | Not specified | Oct 07, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193769) |
@@ -185,4 +185,4 @@ this page through GitHub Actions **every 4 hours**.
 Adding a company takes one line in [`companies.csv`](companies.csv) — see
 [CONTRIBUTING.md](CONTRIBUTING.md).
 
-*Engine (last run): 5,379 companies polled across 11 job platforms · 88% fetch success · completed in 144s.*
+*Engine (last run): 5,380 companies polled across 11 job platforms · 92% fetch success · completed in 125s.*
