@@ -10,7 +10,7 @@ screened so that **no coding, programming language, or software-engineering skil
 Data tools (Tableau, Power BI, Alteryx, etc.) only appear when the posting says they're
 *preferred / a plus / not required / trained on the job*.
 
-**19 open roles · 5381 companies tracked · updated Nov 10, 2026 at 02:29 UTC**
+**20 open roles · 5381 companies tracked · updated Nov 10, 2026 at 12:01 UTC**
 
 ⭐ **Star this repo** to save it — the tables below rebuild themselves every 4 hours.
 
@@ -119,13 +119,14 @@ watching — companies trend earlier every year.*
 | EQT Corporation | AI Intern | Remote | Oct 27, 2026 | ~Oct 27 | ✅ live now | Not specified |
 | Centene | AI Design Systems Intern (Master's - Summer 2027) | Remote-MO | Oct 28, 2026 | ~Oct 28 | ✅ live now | Not specified |
 | CareSource | 2027 Summer Internship Program - AI Intern | Remote | Oct 29, 2026 | ~Oct 29 | ✅ live now | Not specified |
-| GE Aerospace | Artificial Intelligence Intern | Remote | Nov 02, 2026 | ~Nov 02 | ⏳ waiting | Not specified |
+| GE Aerospace | Artificial Intelligence Intern | Remote | Nov 02, 2026 | ~Nov 02 | ✅ live now | Not specified |
 
 
 ## 🌐 Table 4 — Active Now: US-Remote AI Internships
 
 | Company | Role | Location | Cycle | Graduation Requirement | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
+| GE Aerospace | Artificial Intelligence Intern | Remote | Not stated (verify) | Not specified | Nov 10, 2026 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/ge_externalsite/job/Remote/Artificial-Intelligence-Intern_R5042291-1) |
 | Centene | Social Media & AI Undergraduate Summer Intern | Remote-CA | Not stated (verify) | Not specified | Nov 09, 2026 | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-CA/Social-Media---AI-Undergraduate-Summer-Intern_1667859) |
 | Leidos | AI/Automation Development Intern - Assessment & Authorization | 6314 Remote/Teleworker US | Not stated (verify) | Not specified | Nov 06, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/AI-Automation-Development-Intern---Assessment---Authorization_R-00195319) |
 | CareSource | 2027 Summer Internship Program - AI Healthcare Operations | Remote | Summer 2027 | Not specified | Oct 29, 2026 | [Apply](https://caresource.wd1.myworkdayjobs.com/en-US/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---AI-Healthcare-Operations_R14126) |
@@ -186,4 +187,4 @@ this page through GitHub Actions **every 4 hours**.
 Adding a company takes one line in [`companies.csv`](companies.csv) — see
 [CONTRIBUTING.md](CONTRIBUTING.md).
 
-*Engine (last run): 5,381 companies polled across 11 job platforms · 92% fetch success · completed in 134s.*
+*Engine (last run): 5,381 companies polled across 11 job platforms · 94% fetch success · completed in 168s.*
