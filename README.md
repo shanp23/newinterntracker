@@ -10,7 +10,7 @@ screened so that **no coding, programming language, or software-engineering skil
 Data tools (Tableau, Power BI, Alteryx, etc.) only appear when the posting says they're
 *preferred / a plus / not required / trained on the job*.
 
-**20 open roles · 5381 companies tracked · updated Nov 10, 2026 at 21:37 UTC**
+**19 open roles · 5381 companies tracked · updated Nov 11, 2026 at 04:23 UTC**
 
 ⭐ **Star this repo** to save it — the tables below rebuild themselves every 4 hours.
 
@@ -89,8 +89,8 @@ watching — companies trend earlier every year.*
 | Scale AI | AI Operations / GTM Intern | Remote — US | Oct 13, 2025 *(seeded estimate)* | ~Oct 13 · any day now | ⏳ waiting | shown when posting goes live |
 | CVS Health | AI Adoption Intern | Remote — US | Oct 20, 2025 *(seeded estimate)* | ~Oct 20 · any day now | ⏳ waiting | shown when posting goes live |
 | PepsiCo | Commercial AI Intern | Remote — US | Oct 27, 2025 *(seeded estimate)* | ~Oct 27 · any day now | ⏳ waiting | shown when posting goes live |
-| Genpact | AI Operations Intern | Remote — US | Nov 17, 2025 *(seeded estimate)* | ~Nov 17 · in ~6d | ⏳ waiting | shown when posting goes live |
-| HubSpot | AI Content / Marketing Intern | Remote — US | Jan 05, 2026 *(seeded estimate)* | ~Jan 05 · in ~55d | ⏳ waiting | shown when posting goes live |
+| Genpact | AI Operations Intern | Remote — US | Nov 17, 2025 *(seeded estimate)* | ~Nov 17 · in ~5d | ⏳ waiting | shown when posting goes live |
+| HubSpot | AI Content / Marketing Intern | Remote — US | Jan 05, 2026 *(seeded estimate)* | ~Jan 05 · in ~54d | ⏳ waiting | shown when posting goes live |
 | Writer | AI GTM / Marketing Intern | Remote — US | Jan 19, 2026 *(seeded estimate)* | ~Jan 19 | ⏳ waiting | shown when posting goes live |
 | Meshy | Generative AI Researcher Intern | Shanghai | Jan 22, 2026 | ~Jan 22 | ✅ live now | l-time internship for 12 weeks or longer - Intend to join Meshy full-time after graduation (ideally graduating from 9/20… |
 | Jasper | AI Marketing Intern | Remote — US | Feb 02, 2026 *(seeded estimate)* | ~Feb 02 | ⏳ waiting | shown when posting goes live |
@@ -118,7 +118,7 @@ watching — companies trend earlier every year.*
 | OpenSesame | AI Product Builder Intern | Remote | Oct 22, 2026 | ~Oct 22 | ✅ live now | Not specified |
 | EQT Corporation | AI Intern | Remote | Oct 27, 2026 | ~Oct 27 | ✅ live now | Not specified |
 | Centene | AI Design Systems Intern (Master's - Summer 2027) | Remote-MO | Oct 28, 2026 | ~Oct 28 | ✅ live now | Not specified |
-| CareSource | 2027 Summer Internship Program - AI Intern | Remote | Oct 29, 2026 | ~Oct 29 | ✅ live now | Not specified |
+| CareSource | 2027 Summer Internship Program - AI Intern | Remote | Oct 29, 2026 | ~Oct 29 | ⏳ waiting | Not specified |
 | GE Aerospace | Artificial Intelligence Intern | Remote | Nov 02, 2026 | ~Nov 02 | ✅ live now | Not specified |
 
 
@@ -129,7 +129,6 @@ watching — companies trend earlier every year.*
 | GE Aerospace | Artificial Intelligence Intern | Remote | Not stated (verify) | Not specified | Nov 10, 2026 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/ge_externalsite/job/Remote/Artificial-Intelligence-Intern_R5042291-1) |
 | Centene | Social Media & AI Undergraduate Summer Intern | Remote-CA | Not stated (verify) | Not specified | Nov 09, 2026 | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-CA/Social-Media---AI-Undergraduate-Summer-Intern_1667859) |
 | Leidos | AI/Automation Development Intern - Assessment & Authorization | 6314 Remote/Teleworker US | Not stated (verify) | Not specified | Nov 06, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/AI-Automation-Development-Intern---Assessment---Authorization_R-00195319) |
-| CareSource | 2027 Summer Internship Program - AI Healthcare Operations | Remote | Summer 2027 | Not specified | Oct 29, 2026 | [Apply](https://caresource.wd1.myworkdayjobs.com/en-US/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---AI-Healthcare-Operations_R14126) |
 | EQT Corporation | AI Intern | Remote | Not stated (verify) | Not specified | Oct 27, 2026 | [Apply](https://job-boards.greenhouse.io/eqtcorporation/jobs/5462562008) |
 | OpenArt AI | Early Adopter & Product Builder Intern, Creative AI | San Carlos, California, USA | Not stated (verify) | Not specified | Oct 22, 2026 | [Apply](https://jobs.ashbyhq.com/openart/8dd52ba6-a5b6-40b1-95fe-50de352fa254) |
 | OpenSesame | AI Product Builder Intern | Remote | Not stated (verify) | Not specified | Oct 22, 2026 | [Apply](https://boards.greenhouse.io/opensesame/jobs/8313424?gh_jid=8313424) |
@@ -187,4 +186,4 @@ this page through GitHub Actions **every 4 hours**.
 Adding a company takes one line in [`companies.csv`](companies.csv) — see
 [CONTRIBUTING.md](CONTRIBUTING.md).
 
-*Engine (last run): 5,381 companies polled across 11 job platforms · 93% fetch success · completed in 162s.*
+*Engine (last run): 5,381 companies polled across 11 job platforms · 94% fetch success · completed in 124s.*
