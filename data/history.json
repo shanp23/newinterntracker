@@ -193,6 +193,13 @@
    "seed_first_post": "2025-08-18",
    "seeded": true
   },
+  "DriveWealth": {
+   "grad": "Must have an expected graduation date from December 2027 to December 2028",
+   "location": "Chicago",
+   "observed_first_post": "2026-10-20",
+   "role_hint": "AI Consulting Associate Program (AI CAP) Brokerage Intern - Summer 2027",
+   "seeded": false
+  },
   "EQT Corporation": {
    "grad": "Not specified",
    "location": "Remote",
