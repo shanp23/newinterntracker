@@ -10,7 +10,7 @@ screened so that **no coding, programming language, or software-engineering skil
 Data tools (Tableau, Power BI, Alteryx, etc.) only appear when the posting says they're
 *preferred / a plus / not required / trained on the job*.
 
-**11 open roles · 5456 companies tracked · updated Nov 14, 2026 at 11:09 UTC**
+**20 open roles · 5464 companies tracked · updated Nov 14, 2026 at 17:35 UTC**
 
 ⭐ **Star this repo** to save it — the tables below rebuild themselves every 4 hours.
 
@@ -97,7 +97,7 @@ watching — companies trend earlier every year.*
 | Valsoft | AI Marketer Intern - USA | United States (Remote) | Mar 10, 2026 | ~Mar 10 | ⏳ waiting | Not specified |
 | Oxfam International | Intern, AI and Digital Innovation | Boston, MA, us (Remote) | May 13, 2026 | ~May 13 | ⏳ waiting | Not specified |
 | Sony | Research Intern on Generative and Protective AI for Content Creation | Remote - Michigan | Jun 08, 2026 | ~Jun 08 | ⏳ waiting | Not specified |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | USA - Remote | Jun 12, 2026 | ~Jun 12 | ⏳ waiting | Not specified |
+| Campbellsoup | Business Analyst (Co-op), DA&AI | USA - Remote | Jun 12, 2026 | ~Jun 12 | ✅ live now | Not specified |
 | Point C | Account Management AI Intern | United States - Remote | Jun 25, 2026 | ~Jun 25 | ⏳ waiting | Not specified |
 | SS&C | Healthcare AI & Automation Intern | Remote - Florida, US | Jul 22, 2026 | ~Jul 22 | ⏳ waiting | Not specified |
 | Boston Medical Center | Cybersecurity & AI/Data Governance Intern | Remote | Jul 23, 2026 | ~Jul 23 | ⏳ waiting | Not specified |
@@ -110,7 +110,7 @@ watching — companies trend earlier every year.*
 | ONE Finance | AI Research, Intern | United States (Remote) | Sep 08, 2026 | ~Sep 08 | ✅ live now | YOU BRING - Pursuing a Bachelor’s Degree: You’re a current student expected to graduate in the Fall 2027/Spring of 2028 … |
 | Amgen | Undergrad Intern – Digital Product – Technology, AI & Data (Summer 2027) | United States - Remote | Sep 14, 2026 | ~Sep 14 | ⏳ waiting | Not specified |
 | G2 | Marketing AI Intern | Remote (US) | Sep 22, 2026 | ~Sep 22 | ⏳ waiting | Not specified |
-| Leidos | Business Systems AI Intern | 6314 Remote/Teleworker US | Oct 02, 2026 | ~Oct 02 | ⏳ waiting | Not specified |
+| Leidos | Business Systems AI Intern | 6314 Remote/Teleworker US | Oct 02, 2026 | ~Oct 02 | ✅ live now | Not specified |
 | Centific | AI Research Intern -  Physical AI | Remote Work( USA) | Oct 08, 2026 | ~Oct 08 | ⏳ waiting | Not specified |
 | Nubank | Nu AI Core Summer PhD Research Internship | Palo Alto | Oct 19, 2026 | ~Oct 19 | ✅ live now | Not specified |
 | DriveWealth | AI Consulting Associate Program (AI CAP) Brokerage Intern - Summer 2027 | Chicago | Oct 20, 2026 | ~Oct 20 | ✅ live now | Must have an expected graduation date from December 2027 to December 2028 |
@@ -118,7 +118,7 @@ watching — companies trend earlier every year.*
 | OpenArt AI | Early Adopter & Product Builder Intern, Creative AI | San Carlos, California, USA | Oct 22, 2026 | ~Oct 22 | ✅ live now | Not specified |
 | OpenSesame | AI Product Builder Intern | Remote | Oct 22, 2026 | ~Oct 22 | ✅ live now | Not specified |
 | EQT Corporation | AI Intern | Remote | Oct 27, 2026 | ~Oct 27 | ✅ live now | Not specified |
-| Centene | AI Design Systems Intern (Master's - Summer 2027) | Remote-MO | Oct 28, 2026 | ~Oct 28 | ⏳ waiting | Not specified |
+| Centene | AI Design Systems Intern (Master's - Summer 2027) | Remote-MO | Oct 28, 2026 | ~Oct 28 | ✅ live now | Not specified |
 | CareSource | 2027 Summer Internship Program - AI Intern | Remote | Oct 29, 2026 | ~Oct 29 | ⏳ waiting | Not specified |
 | GE Aerospace | Artificial Intelligence Intern | Remote | Nov 02, 2026 | ~Nov 02 | ⏳ waiting | Not specified |
 
@@ -127,6 +127,8 @@ watching — companies trend earlier every year.*
 
 | Company | Role | Location | Cycle | Graduation Requirement | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
+| Centene | Social Media & AI Undergraduate Summer Intern | Remote-CA | Not stated (verify) | Not specified | Nov 09, 2026 | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-CA/Social-Media---AI-Undergraduate-Summer-Intern_1667859) |
+| Leidos | AI/Automation Development Intern - Assessment & Authorization | 6314 Remote/Teleworker US | Not stated (verify) | Not specified | Nov 06, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/AI-Automation-Development-Intern---Assessment---Authorization_R-00195319) |
 | EQT Corporation | AI Intern | Remote | Not stated (verify) | Not specified | Oct 27, 2026 | [Apply](https://job-boards.greenhouse.io/eqtcorporation/jobs/5462562008) |
 | OpenArt AI | Early Adopter & Product Builder Intern, Creative AI | San Carlos, California, USA | Not stated (verify) | Not specified | Oct 22, 2026 | [Apply](https://jobs.ashbyhq.com/openart/8dd52ba6-a5b6-40b1-95fe-50de352fa254) |
 | OpenSesame | AI Product Builder Intern | Remote | Not stated (verify) | Not specified | Oct 22, 2026 | [Apply](https://boards.greenhouse.io/opensesame/jobs/8313424?gh_jid=8313424) |
@@ -134,8 +136,15 @@ watching — companies trend earlier every year.*
 | DriveWealth | AI Consulting Associate Program (AI CAP) Brokerage Intern - Summer 2027 | Chicago | Summer 2027 | Must have an expected graduation date from December 2027 to December 2028 | Oct 20, 2026 | [Apply](https://jobs.ashbyhq.com/drivewealth/b11409e6-a86d-4504-b4da-36636f888c16) |
 | DriveWealth | AI Consulting Associate Program (AI CAP) Product Manager Intern - Summer 2027 | Chicago | Summer 2027 | Must have a graduation date from December 2027 to December 2028 | Oct 20, 2026 | [Apply](https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87) |
 | Nubank | Nu AI Core Summer PhD Research Internship | Palo Alto | Not stated (verify) | Not specified | Oct 19, 2026 | [Apply](https://jobs.ashbyhq.com/nubank/3835ec58-5e5a-4bd4-a076-4a8f89490011) |
+| Leidos | Business Systems AI Intern | 6314 Remote/Teleworker US | Not stated (verify) | Not specified | Oct 07, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193769) |
 | Ancestry | AI Discovery Co-Op - Agentic Personalization | Remote | Not stated (verify) | Not specified | Oct 06, 2026 | [Apply](https://ancestry.wd501.myworkdayjobs.com/en-US/Careers/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442) |
+| Leidos | Business Systems AI Intern | 6314 Remote/Teleworker US | Not stated (verify) | Not specified | Oct 06, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193327) |
+| Leidos | Business Systems AI Intern | 6314 Remote/Teleworker US | Not stated (verify) | Not specified | Oct 06, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193767) |
+| Leidos | Business Systems AI Intern | 6314 Remote/Teleworker US | Not stated (verify) | Not specified | Oct 02, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193770) |
 | ONE Finance | AI Research Intern | United States (Remote) | Spring 2027 | l-Year Graduate Student: You’re in the final year of a master’s or PhD program, expected to graduate in Fall 2027 or Spr… | Sep 21, 2026 | [Apply](https://jobs.ashbyhq.com/oneapp/84beb108-c04b-42d3-a9ae-9a91210201b7) |
+| Campbellsoup | Business Analyst (Co-op), DA&AI | USA - Remote | Not stated (verify) | Not specified | Jun 12, 2026 | [Apply](https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65915) |
+| Campbellsoup | Business Analyst (Co-op), DA&AI | USA - Remote | Not stated (verify) | Not specified | Jun 12, 2026 | [Apply](https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65913) |
+| Campbellsoup | Business Analyst (Co-op), DA&AI | USA - Remote | Not stated (verify) | Not specified | Jun 12, 2026 | [Apply](https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65914) |
 | Meshy | Generative AI Researcher Intern | Shanghai | Not stated (verify) | l-time internship for 12 weeks or longer - Intend to join Meshy full-time after graduation (ideally graduating from 9/20… | Jan 22, 2026 | [Apply](https://jobs.ashbyhq.com/meshy/00b6328d-8c32-4b91-aafa-51434e965f37) |
 
 
@@ -179,4 +188,4 @@ this page through GitHub Actions **every 4 hours**.
 Adding a company takes one line in [`companies.csv`](companies.csv) — see
 [CONTRIBUTING.md](CONTRIBUTING.md).
 
-*Engine (last run): 5,456 companies polled across 11 job platforms · 69% fetch success · completed in 97s.*
+*Engine (last run): 5,464 companies polled across 11 job platforms · 93% fetch success · completed in 130s.*
