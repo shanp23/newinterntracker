@@ -10,7 +10,7 @@ screened so that **no coding, programming language, or software-engineering skil
 Data tools (Tableau, Power BI, Alteryx, etc.) only appear when the posting says they're
 *preferred / a plus / not required / trained on the job*.
 
-**20 open roles · 5464 companies tracked · updated Nov 15, 2026 at 04:31 UTC**
+**19 open roles · 5464 companies tracked · updated Nov 15, 2026 at 15:14 UTC**
 
 ⭐ **Star this repo** to save it — the tables below rebuild themselves every 4 hours.
 
@@ -118,7 +118,7 @@ watching — companies trend earlier every year.*
 | OpenArt AI | Early Adopter & Product Builder Intern, Creative AI | San Carlos, California, USA | Oct 22, 2026 | ~Oct 22 | ✅ live now | Not specified |
 | OpenSesame | AI Product Builder Intern | Remote | Oct 22, 2026 | ~Oct 22 | ✅ live now | Not specified |
 | EQT Corporation | AI Intern | Remote | Oct 27, 2026 | ~Oct 27 | ✅ live now | Not specified |
-| Centene | AI Design Systems Intern (Master's - Summer 2027) | Remote-MO | Oct 28, 2026 | ~Oct 28 | ✅ live now | Not specified |
+| Centene | AI Design Systems Intern (Master's - Summer 2027) | Remote-MO | Oct 28, 2026 | ~Oct 28 | ⏳ waiting | Not specified |
 | CareSource | 2027 Summer Internship Program - AI Intern | Remote | Oct 29, 2026 | ~Oct 29 | ⏳ waiting | Not specified |
 | GE Aerospace | Artificial Intelligence Intern | Remote | Nov 02, 2026 | ~Nov 02 | ⏳ waiting | Not specified |
 
@@ -127,7 +127,6 @@ watching — companies trend earlier every year.*
 
 | Company | Role | Location | Cycle | Graduation Requirement | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
-| Centene | Social Media & AI Undergraduate Summer Intern | Remote-CA | Not stated (verify) | Not specified | Nov 09, 2026 | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-CA/Social-Media---AI-Undergraduate-Summer-Intern_1667859) |
 | Leidos | AI/Automation Development Intern - Assessment & Authorization | 6314 Remote/Teleworker US | Not stated (verify) | Not specified | Nov 06, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/AI-Automation-Development-Intern---Assessment---Authorization_R-00195319) |
 | EQT Corporation | AI Intern | Remote | Not stated (verify) | Not specified | Oct 27, 2026 | [Apply](https://job-boards.greenhouse.io/eqtcorporation/jobs/5462562008) |
 | OpenArt AI | Early Adopter & Product Builder Intern, Creative AI | San Carlos, California, USA | Not stated (verify) | Not specified | Oct 22, 2026 | [Apply](https://jobs.ashbyhq.com/openart/8dd52ba6-a5b6-40b1-95fe-50de352fa254) |
@@ -188,4 +187,4 @@ this page through GitHub Actions **every 4 hours**.
 Adding a company takes one line in [`companies.csv`](companies.csv) — see
 [CONTRIBUTING.md](CONTRIBUTING.md).
 
-*Engine (last run): 5,464 companies polled across 11 job platforms · 92% fetch success · completed in 118s.*
+*Engine (last run): 5,464 companies polled across 11 job platforms · 92% fetch success · completed in 116s.*
