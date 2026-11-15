@@ -10,7 +10,7 @@ screened so that **no coding, programming language, or software-engineering skil
 Data tools (Tableau, Power BI, Alteryx, etc.) only appear when the posting says they're
 *preferred / a plus / not required / trained on the job*.
 
-**19 open roles · 5464 companies tracked · updated Nov 15, 2026 at 15:14 UTC**
+**19 open roles · 5479 companies tracked · updated Nov 15, 2026 at 20:44 UTC**
 
 ⭐ **Star this repo** to save it — the tables below rebuild themselves every 4 hours.
 
@@ -187,4 +187,4 @@ this page through GitHub Actions **every 4 hours**.
 Adding a company takes one line in [`companies.csv`](companies.csv) — see
 [CONTRIBUTING.md](CONTRIBUTING.md).
 
-*Engine (last run): 5,464 companies polled across 11 job platforms · 92% fetch success · completed in 116s.*
+*Engine (last run): 5,479 companies polled across 11 job platforms · 94% fetch success · completed in 119s.*
