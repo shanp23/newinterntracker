@@ -10,7 +10,7 @@ screened so that **no coding, programming language, or software-engineering skil
 Data tools (Tableau, Power BI, Alteryx, etc.) only appear when the posting says they're
 *preferred / a plus / not required / trained on the job*.
 
-**10 open roles · 5479 companies tracked · updated Nov 16, 2026 at 17:49 UTC**
+**9 open roles · 5484 companies tracked · updated Nov 17, 2026 at 02:43 UTC**
 
 ⭐ **Star this repo** to save it — the tables below rebuild themselves every 4 hours.
 
@@ -60,16 +60,14 @@ watching — companies trend earlier every year.*
 | Labcorp | AI Operations Intern | Durham, NC (Hybrid) | Oct 27, 2025 *(seeded estimate)* | ~Oct 27 · any day now | ⏳ waiting | shown when posting goes live |
 | Advance Auto Parts | AI Business Intern | Raleigh, NC (Hybrid) | Nov 03, 2025 *(seeded estimate)* | ~Nov 03 · any day now | ⏳ waiting | shown when posting goes live |
 | RTI International | AI Policy / Research Support Intern | RTP, NC (Hybrid) | Nov 10, 2025 *(seeded estimate)* | ~Nov 10 · any day now | ⏳ waiting | shown when posting goes live |
-| Bandwidth | AI Enablement Intern | Raleigh, NC (Hybrid) | Jan 12, 2026 *(seeded estimate)* | ~Jan 12 · in ~56d | ⏳ waiting | shown when posting goes live |
+| Bandwidth | AI Enablement Intern | Raleigh, NC (Hybrid) | Jan 12, 2026 *(seeded estimate)* | ~Jan 12 · in ~55d | ⏳ waiting | shown when posting goes live |
 | Toshiba Global Commerce | AI Product Management Intern | Durham, NC | Jul 27, 2026 | ~Jul 27 | ⏳ waiting | Not specified |
 | Cigna Group | Artificial Intelligence Innovation Development Program (AIIDP) Summer Internship | NC, Raleigh, 701 Corporate Center Dr STE 200 | Sep 02, 2026 | ~Sep 02 | ⏳ waiting | Not specified |
 
 
 ## 📍 Table 2 — Active Now: AI Internships in Raleigh–Durham
 
-| Company | Role | Location | Cycle | Graduation Requirement | Posted | Apply |
-| --- | --- | --- | --- | --- | --- | --- |
-| Toshiba Global Commerce | AI Automation & Revenue Ops Intern | Durham, NC | Spring 2027 | Not specified | Nov 02, 2026 | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5270466007) |
+_No qualifying postings are live right now. The engine re-checks every 4 hours — watch the Drop Radar below for what's coming._
 
 
 ## 🌐 Table 3 — Drop Radar: US-Remote AI Internships
@@ -89,8 +87,8 @@ watching — companies trend earlier every year.*
 | Scale AI | AI Operations / GTM Intern | Remote — US | Oct 13, 2025 *(seeded estimate)* | ~Oct 13 · any day now | ⏳ waiting | shown when posting goes live |
 | CVS Health | AI Adoption Intern | Remote — US | Oct 20, 2025 *(seeded estimate)* | ~Oct 20 · any day now | ⏳ waiting | shown when posting goes live |
 | PepsiCo | Commercial AI Intern | Remote — US | Oct 27, 2025 *(seeded estimate)* | ~Oct 27 · any day now | ⏳ waiting | shown when posting goes live |
-| Genpact | AI Operations Intern | Remote — US | Nov 17, 2025 *(seeded estimate)* | ~Nov 17 · in ~0d | ⏳ waiting | shown when posting goes live |
-| HubSpot | AI Content / Marketing Intern | Remote — US | Jan 05, 2026 *(seeded estimate)* | ~Jan 05 · in ~49d | ⏳ waiting | shown when posting goes live |
+| Genpact | AI Operations Intern | Remote — US | Nov 17, 2025 *(seeded estimate)* | ~Nov 17 · any day now | ⏳ waiting | shown when posting goes live |
+| HubSpot | AI Content / Marketing Intern | Remote — US | Jan 05, 2026 *(seeded estimate)* | ~Jan 05 · in ~48d | ⏳ waiting | shown when posting goes live |
 | Writer | AI GTM / Marketing Intern | Remote — US | Jan 19, 2026 *(seeded estimate)* | ~Jan 19 | ⏳ waiting | shown when posting goes live |
 | Meshy | Generative AI Researcher Intern | Shanghai | Jan 22, 2026 | ~Jan 22 | ✅ live now | l-time internship for 12 weeks or longer - Intend to join Meshy full-time after graduation (ideally graduating from 9/20… |
 | Jasper | AI Marketing Intern | Remote — US | Feb 02, 2026 *(seeded estimate)* | ~Feb 02 | ⏳ waiting | shown when posting goes live |
@@ -128,8 +126,8 @@ watching — companies trend earlier every year.*
 | Company | Role | Location | Cycle | Graduation Requirement | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
 | EQT Corporation | AI Intern | Remote | Not stated (verify) | Not specified | Oct 27, 2026 | [Apply](https://job-boards.greenhouse.io/eqtcorporation/jobs/5462562008) |
-| OpenArt AI | Early Adopter & Product Builder Intern, Creative AI | San Carlos, California, USA | Not stated (verify) | Not specified | Oct 22, 2026 | [Apply](https://jobs.ashbyhq.com/openart/8dd52ba6-a5b6-40b1-95fe-50de352fa254) |
 | OpenSesame | AI Product Builder Intern | Remote | Not stated (verify) | Not specified | Oct 22, 2026 | [Apply](https://boards.greenhouse.io/opensesame/jobs/8313424?gh_jid=8313424) |
+| OpenArt AI | Early Adopter & Product Builder Intern, Creative AI | San Carlos, California, USA | Not stated (verify) | Not specified | Oct 22, 2026 | [Apply](https://jobs.ashbyhq.com/openart/8dd52ba6-a5b6-40b1-95fe-50de352fa254) |
 | Julius AI | Investment Banking - AI Research (MBA Intern) | Remote | Not stated (verify) | Not specified | Oct 21, 2026 | [Apply](https://jobs.ashbyhq.com/julius/8e228c39-4a79-4202-bdbf-dddb703693cc) |
 | DriveWealth | AI Consulting Associate Program (AI CAP) Brokerage Intern - Summer 2027 | Chicago | Summer 2027 | Must have an expected graduation date from December 2027 to December 2028 | Oct 20, 2026 | [Apply](https://jobs.ashbyhq.com/drivewealth/b11409e6-a86d-4504-b4da-36636f888c16) |
 | DriveWealth | AI Consulting Associate Program (AI CAP) Product Manager Intern - Summer 2027 | Chicago | Summer 2027 | Must have a graduation date from December 2027 to December 2028 | Oct 20, 2026 | [Apply](https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87) |
@@ -178,4 +176,4 @@ this page through GitHub Actions **every 4 hours**.
 Adding a company takes one line in [`companies.csv`](companies.csv) — see
 [CONTRIBUTING.md](CONTRIBUTING.md).
 
-*Engine (last run): 5,479 companies polled across 11 job platforms · 60% fetch success · completed in 103s.*
+*Engine (last run): 5,484 companies polled across 11 job platforms · 60% fetch success · completed in 83s.*
