@@ -10,7 +10,7 @@ screened so that **no coding, programming language, or software-engineering skil
 Data tools (Tableau, Power BI, Alteryx, etc.) only appear when the posting says they're
 *preferred / a plus / not required / trained on the job*.
 
-**10 open roles · 5497 companies tracked · updated Nov 17, 2026 at 23:17 UTC**
+**13 open roles · 5497 companies tracked · updated Nov 18, 2026 at 05:41 UTC**
 
 ⭐ **Star this repo** to save it — the tables below rebuild themselves every 4 hours.
 
@@ -60,7 +60,7 @@ watching — companies trend earlier every year.*
 | Labcorp | AI Operations Intern | Durham, NC (Hybrid) | Oct 27, 2025 *(seeded estimate)* | ~Oct 27 · any day now | ⏳ waiting | shown when posting goes live |
 | Advance Auto Parts | AI Business Intern | Raleigh, NC (Hybrid) | Nov 03, 2025 *(seeded estimate)* | ~Nov 03 · any day now | ⏳ waiting | shown when posting goes live |
 | RTI International | AI Policy / Research Support Intern | RTP, NC (Hybrid) | Nov 10, 2025 *(seeded estimate)* | ~Nov 10 · any day now | ⏳ waiting | shown when posting goes live |
-| Bandwidth | AI Enablement Intern | Raleigh, NC (Hybrid) | Jan 12, 2026 *(seeded estimate)* | ~Jan 12 · in ~55d | ⏳ waiting | shown when posting goes live |
+| Bandwidth | AI Enablement Intern | Raleigh, NC (Hybrid) | Jan 12, 2026 *(seeded estimate)* | ~Jan 12 · in ~54d | ⏳ waiting | shown when posting goes live |
 | Toshiba Global Commerce | AI Product Management Intern | Durham, NC | Jul 27, 2026 | ~Jul 27 | ⏳ waiting | Not specified |
 | Cigna Group | Artificial Intelligence Innovation Development Program (AIIDP) Summer Internship | NC, Raleigh, 701 Corporate Center Dr STE 200 | Sep 02, 2026 | ~Sep 02 | ⏳ waiting | Not specified |
 
@@ -88,14 +88,14 @@ _No qualifying postings are live right now. The engine re-checks every 4 hours �
 | CVS Health | AI Adoption Intern | Remote — US | Oct 20, 2025 *(seeded estimate)* | ~Oct 20 · any day now | ⏳ waiting | shown when posting goes live |
 | PepsiCo | Commercial AI Intern | Remote — US | Oct 27, 2025 *(seeded estimate)* | ~Oct 27 · any day now | ⏳ waiting | shown when posting goes live |
 | Genpact | AI Operations Intern | Remote — US | Nov 17, 2025 *(seeded estimate)* | ~Nov 17 · any day now | ⏳ waiting | shown when posting goes live |
-| HubSpot | AI Content / Marketing Intern | Remote — US | Jan 05, 2026 *(seeded estimate)* | ~Jan 05 · in ~48d | ⏳ waiting | shown when posting goes live |
+| HubSpot | AI Content / Marketing Intern | Remote — US | Jan 05, 2026 *(seeded estimate)* | ~Jan 05 · in ~47d | ⏳ waiting | shown when posting goes live |
 | Writer | AI GTM / Marketing Intern | Remote — US | Jan 19, 2026 *(seeded estimate)* | ~Jan 19 | ⏳ waiting | shown when posting goes live |
 | Meshy | Generative AI Researcher Intern | Shanghai | Jan 22, 2026 | ~Jan 22 | ✅ live now | l-time internship for 12 weeks or longer - Intend to join Meshy full-time after graduation (ideally graduating from 9/20… |
 | Jasper | AI Marketing Intern | Remote — US | Feb 02, 2026 *(seeded estimate)* | ~Feb 02 | ⏳ waiting | shown when posting goes live |
 | Valsoft | AI Marketer Intern - USA | United States (Remote) | Mar 10, 2026 | ~Mar 10 | ⏳ waiting | Not specified |
 | Oxfam International | Intern, AI and Digital Innovation | Boston, MA, us (Remote) | May 13, 2026 | ~May 13 | ⏳ waiting | Not specified |
 | Sony | Research Intern on Generative and Protective AI for Content Creation | Remote - Michigan | Jun 08, 2026 | ~Jun 08 | ⏳ waiting | Not specified |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | USA - Remote | Jun 12, 2026 | ~Jun 12 | ⏳ waiting | Not specified |
+| Campbellsoup | Business Analyst (Co-op), DA&AI | USA - Remote | Jun 12, 2026 | ~Jun 12 | ✅ live now | Not specified |
 | Point C | Account Management AI Intern | United States - Remote | Jun 25, 2026 | ~Jun 25 | ⏳ waiting | Not specified |
 | SS&C | Healthcare AI & Automation Intern | Remote - Florida, US | Jul 22, 2026 | ~Jul 22 | ⏳ waiting | Not specified |
 | Boston Medical Center | Cybersecurity & AI/Data Governance Intern | Remote | Jul 23, 2026 | ~Jul 23 | ⏳ waiting | Not specified |
@@ -126,14 +126,17 @@ _No qualifying postings are live right now. The engine re-checks every 4 hours �
 | Company | Role | Location | Cycle | Graduation Requirement | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
 | EQT Corporation | AI Intern | Remote | Not stated (verify) | Not specified | Oct 27, 2026 | [Apply](https://job-boards.greenhouse.io/eqtcorporation/jobs/5462562008) |
-| OpenArt AI | Early Adopter & Product Builder Intern, Creative AI | San Carlos, California, USA | Not stated (verify) | Not specified | Oct 22, 2026 | [Apply](https://jobs.ashbyhq.com/openart/8dd52ba6-a5b6-40b1-95fe-50de352fa254) |
 | OpenSesame | AI Product Builder Intern | Remote | Not stated (verify) | Not specified | Oct 22, 2026 | [Apply](https://boards.greenhouse.io/opensesame/jobs/8313424?gh_jid=8313424) |
+| OpenArt AI | Early Adopter & Product Builder Intern, Creative AI | San Carlos, California, USA | Not stated (verify) | Not specified | Oct 22, 2026 | [Apply](https://jobs.ashbyhq.com/openart/8dd52ba6-a5b6-40b1-95fe-50de352fa254) |
 | Julius AI | Investment Banking - AI Research (MBA Intern) | Remote | Not stated (verify) | Not specified | Oct 21, 2026 | [Apply](https://jobs.ashbyhq.com/julius/8e228c39-4a79-4202-bdbf-dddb703693cc) |
-| DriveWealth | AI Consulting Associate Program (AI CAP) Brokerage Intern - Summer 2027 | Chicago | Summer 2027 | Must have an expected graduation date from December 2027 to December 2028 | Oct 20, 2026 | [Apply](https://jobs.ashbyhq.com/drivewealth/b11409e6-a86d-4504-b4da-36636f888c16) |
-| DriveWealth | AI Consulting Associate Program (AI CAP) Product Manager Intern - Summer 2027 | Chicago | Summer 2027 | Must have a graduation date from December 2027 to December 2028 | Oct 20, 2026 | [Apply](https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87) |
+| DriveWealth | AI Consulting Associate Program (AI CAP) Brokerage Intern - Summer 2027 | Chicago, IL | Summer 2027 | Must have an expected graduation date from December 2027 to December 2028 | Oct 20, 2026 | [Apply](https://jobs.ashbyhq.com/drivewealth/b11409e6-a86d-4504-b4da-36636f888c16) |
+| DriveWealth | AI Consulting Associate Program (AI CAP) Product Manager Intern - Summer 2027 | Chicago, IL | Summer 2027 | Must have a graduation date from December 2027 to December 2028 | Oct 20, 2026 | [Apply](https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87) |
 | Nubank | Nu AI Core Summer PhD Research Internship | Palo Alto | Not stated (verify) | Not specified | Oct 19, 2026 | [Apply](https://jobs.ashbyhq.com/nubank/3835ec58-5e5a-4bd4-a076-4a8f89490011) |
 | Ancestry | AI Discovery Co-Op - Agentic Personalization | Remote | Not stated (verify) | Not specified | Oct 06, 2026 | [Apply](https://ancestry.wd501.myworkdayjobs.com/en-US/Careers/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442) |
 | ONE Finance | AI Research Intern | United States (Remote) | Spring 2027 | l-Year Graduate Student: You’re in the final year of a master’s or PhD program, expected to graduate in Fall 2027 or Spr… | Sep 21, 2026 | [Apply](https://jobs.ashbyhq.com/oneapp/84beb108-c04b-42d3-a9ae-9a91210201b7) |
+| Campbellsoup | Business Analyst (Co-op), DA&AI | USA - Remote | Not stated (verify) | Not specified | Jul 05, 2026 | [Apply](https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65915) |
+| Campbellsoup | Business Analyst (Co-op), DA&AI | USA - Remote | Not stated (verify) | Not specified | Jul 05, 2026 | [Apply](https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65913) |
+| Campbellsoup | Business Analyst (Co-op), DA&AI | USA - Remote | Not stated (verify) | Not specified | Jul 05, 2026 | [Apply](https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65914) |
 | Meshy | Generative AI Researcher Intern | Shanghai | Not stated (verify) | l-time internship for 12 weeks or longer - Intend to join Meshy full-time after graduation (ideally graduating from 9/20… | Jan 22, 2026 | [Apply](https://jobs.ashbyhq.com/meshy/00b6328d-8c32-4b91-aafa-51434e965f37) |
 
 
@@ -177,4 +180,4 @@ this page through GitHub Actions **every 4 hours**.
 Adding a company takes one line in [`companies.csv`](companies.csv) — see
 [CONTRIBUTING.md](CONTRIBUTING.md).
 
-*Engine (last run): 5,497 companies polled across 11 job platforms · 61% fetch success · completed in 109s.*
+*Engine (last run): 5,497 companies polled across 11 job platforms · 62% fetch success · completed in 88s.*
