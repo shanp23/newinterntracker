@@ -10,7 +10,7 @@ screened so that **no coding, programming language, or software-engineering skil
 Data tools (Tableau, Power BI, Alteryx, etc.) only appear when the posting says they're
 *preferred / a plus / not required / trained on the job*.
 
-**8 open roles · 5538 companies tracked · updated Nov 22, 2026 at 12:13 UTC**
+**7 open roles · 5540 companies tracked · updated Nov 22, 2026 at 21:27 UTC**
 
 ⭐ **Star this repo** to save it — the tables below rebuild themselves every 4 hours.
 
@@ -103,7 +103,7 @@ _No qualifying postings are live right now. The engine re-checks every 4 hours �
 | Kognitos | Marketing Intern (AI-Native) | San Jose - HQ | Aug 26, 2026 | ~Aug 26 | ⏳ waiting | Not specified |
 | Acumatica | AI & Automation Intern, Office of the CFO | Bellevue, WA, us (Remote) | Sep 01, 2026 | ~Sep 01 | ⏳ waiting | Not specified |
 | Revvity | Product Manager Intern - AI Finance Automation | CAD Remote – ON | Sep 02, 2026 | ~Sep 02 | ⏳ waiting | Not specified |
-| Ancestry | Applied AI Science Co-op - Embedding models and Personalization | Remote | Sep 03, 2026 | ~Sep 03 | ✅ live now | Not specified |
+| Ancestry | Applied AI Science Co-op - Embedding models and Personalization | Remote | Sep 03, 2026 | ~Sep 03 | ⏳ waiting | Not specified |
 | NewsBreak | New Market Launch Intern (MBA), Nearby AI | Bellevue, Washington, United States; Mountain View, California, United States; New York, New York, United States; Remote | Sep 03, 2026 | ~Sep 03 | ⏳ waiting | Not specified |
 | ONE Finance | AI Research, Intern | United States (Remote) | Sep 08, 2026 | ~Sep 08 | ✅ live now | YOU BRING - Pursuing a Bachelor’s Degree: You’re a current student expected to graduate in the Fall 2027/Spring of 2028 … |
 | Amgen | Undergrad Intern – Digital Product – Technology, AI & Data (Summer 2027) | United States - Remote | Sep 14, 2026 | ~Sep 14 | ⏳ waiting | Not specified |
@@ -126,11 +126,10 @@ _No qualifying postings are live right now. The engine re-checks every 4 hours �
 | Company | Role | Location | Cycle | Graduation Requirement | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
 | EQT Corporation | AI Intern | Remote | Not stated (verify) | Not specified | Oct 27, 2026 | [Apply](https://job-boards.greenhouse.io/eqtcorporation/jobs/5462562008) |
-| OpenSesame | AI Product Builder Intern | Remote | Not stated (verify) | Not specified | Oct 22, 2026 | [Apply](https://boards.greenhouse.io/opensesame/jobs/8313424?gh_jid=8313424) |
 | OpenArt AI | Early Adopter & Product Builder Intern, Creative AI | San Carlos, California, USA | Not stated (verify) | Not specified | Oct 22, 2026 | [Apply](https://jobs.ashbyhq.com/openart/8dd52ba6-a5b6-40b1-95fe-50de352fa254) |
+| OpenSesame | AI Product Builder Intern | Remote | Not stated (verify) | Not specified | Oct 22, 2026 | [Apply](https://boards.greenhouse.io/opensesame/jobs/8313424?gh_jid=8313424) |
 | Julius AI | Investment Banking - AI Research (MBA Intern) | Remote | Not stated (verify) | Not specified | Oct 21, 2026 | [Apply](https://jobs.ashbyhq.com/julius/8e228c39-4a79-4202-bdbf-dddb703693cc) |
 | Nubank | Nu AI Core Summer PhD Research Internship | Palo Alto | Not stated (verify) | Not specified | Oct 19, 2026 | [Apply](https://jobs.ashbyhq.com/nubank/3835ec58-5e5a-4bd4-a076-4a8f89490011) |
-| Ancestry | AI Discovery Co-Op - Agentic Personalization | Remote | Not stated (verify) | Not specified | Oct 06, 2026 | [Apply](https://ancestry.wd501.myworkdayjobs.com/en-US/Careers/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442) |
 | ONE Finance | AI Research Intern | United States (Remote) | Spring 2027 | l-Year Graduate Student: You’re in the final year of a master’s or PhD program, expected to graduate in Fall 2027 or Spr… | Sep 21, 2026 | [Apply](https://jobs.ashbyhq.com/oneapp/84beb108-c04b-42d3-a9ae-9a91210201b7) |
 | Meshy | Generative AI Researcher Intern | Shanghai | Not stated (verify) | l-time internship for 12 weeks or longer - Intend to join Meshy full-time after graduation (ideally graduating from 9/20… | Jan 22, 2026 | [Apply](https://jobs.ashbyhq.com/meshy/00b6328d-8c32-4b91-aafa-51434e965f37) |
 
@@ -175,4 +174,4 @@ this page through GitHub Actions **every 4 hours**.
 Adding a company takes one line in [`companies.csv`](companies.csv) — see
 [CONTRIBUTING.md](CONTRIBUTING.md).
 
-*Engine (last run): 5,538 companies polled across 11 job platforms · 61% fetch success · completed in 76s.*
+*Engine (last run): 5,540 companies polled across 11 job platforms · 62% fetch success · completed in 83s.*
